@@ -1,0 +1,6678 @@
+[
+  {
+    "name": "16x Zoom Scope",
+    "ingredients": []
+  },
+  {
+    "name": "8x Zoom Scope",
+    "ingredients": [
+      {
+        "ingredientName": "High Quality Metal",
+        "amount": 50
+      }
+    ]
+  },
+  {
+    "name": "Assault Rifle",
+    "ingredients": [
+      {
+        "ingredientName": "High Quality Metal",
+        "amount": 50
+      },
+      {
+        "ingredientName": "Wood",
+        "amount": 200
+      },
+      {
+        "ingredientName": "Rifle Body",
+        "amount": 1
+      },
+      {
+        "ingredientName": "Metal Spring",
+        "amount": 4
+      }
+    ]
+  },
+  {
+    "name": "Beancan Grenade",
+    "ingredients": [
+      {
+        "ingredientName": "Gun Powder",
+        "amount": 60
+      },
+      {
+        "ingredientName": "Metal Fragments",
+        "amount": 20
+      }
+    ]
+  },
+  {
+    "name": "Bolt Action Rifle",
+    "ingredients": [
+      {
+        "ingredientName": "High Quality Metal",
+        "amount": 20
+      },
+      {
+        "ingredientName": "Rifle Body",
+        "amount": 1
+      },
+      {
+        "ingredientName": "Metal Pipe",
+        "amount": 3
+      },
+      {
+        "ingredientName": "Metal Spring",
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "name": "Bone Club",
+    "ingredients": [
+      {
+        "ingredientName": "Scrap",
+        "amount": 10
+      }
+    ]
+  },
+  {
+    "name": "Bone Knife",
+    "ingredients": [
+      {
+        "ingredientName": "Scrap",
+        "amount": 10
+      }
+    ]
+  },
+  {
+    "name": "Butcher Knife",
+    "ingredients": []
+  },
+  {
+    "name": "Candy Cane Club",
+    "ingredients": []
+  },
+  {
+    "name": "Combat Knife",
+    "ingredients": [
+      {
+        "ingredientName": "Metal Fragments",
+        "amount": 25
+      },
+      {
+        "ingredientName": "High Quality Metal",
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "name": "Compound Bow",
+    "ingredients": [
+      {
+        "ingredientName": "Wood",
+        "amount": 100
+      },
+      {
+        "ingredientName": "Metal Fragments",
+        "amount": 75
+      },
+      {
+        "ingredientName": "Rope",
+        "amount": 2
+      }
+    ]
+  },
+  {
+    "name": "Crossbow",
+    "ingredients": [
+      {
+        "ingredientName": "Wood",
+        "amount": 200
+      },
+      {
+        "ingredientName": "Metal Fragments",
+        "amount": 75
+      },
+      {
+        "ingredientName": "Rope",
+        "amount": 2
+      }
+    ]
+  },
+  {
+    "name": "Custom SMG",
+    "ingredients": [
+      {
+        "ingredientName": "High Quality Metal",
+        "amount": 8
+      },
+      {
+        "ingredientName": "SMG Body",
+        "amount": 1
+      },
+      {
+        "ingredientName": "Metal Spring",
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "name": "Double Barrel Shotgun",
+    "ingredients": [
+      {
+        "ingredientName": "Scrap",
+        "amount": 250
+      }
+    ]
+  },
+  {
+    "name": "Eoka Pistol",
+    "ingredients": [
+      {
+        "ingredientName": "Scrap",
+        "amount": 10
+      }
+    ]
+  },
+  {
+    "name": "Extended Magazine",
+    "ingredients": [
+      {
+        "ingredientName": "High Quality Metal",
+        "amount": 10
+      }
+    ]
+  },
+  {
+    "name": "F1 Grenade",
+    "ingredients": [
+      {
+        "ingredientName": "Scrap",
+        "amount": 8
+      }
+    ]
+  },
+  {
+    "name": "Flame Thrower",
+    "ingredients": [
+      {
+        "ingredientName": "High Quality Metal",
+        "amount": 15
+      },
+      {
+        "ingredientName": "Metal Pipe",
+        "amount": 6
+      },
+      {
+        "ingredientName": "Low Grade Fuel",
+        "amount": 100
+      },
+      {
+        "ingredientName": "Empty Propane Tank",
+        "amount": 2
+      }
+    ]
+  },
+  {
+    "name": "Flashbang",
+    "ingredients": [
+      {
+        "ingredientName": "Gun Powder",
+        "amount": 25
+      },
+      {
+        "ingredientName": "Metal Fragments",
+        "amount": 50
+      }
+    ]
+  },
+  {
+    "name": "HMLMG",
+    "ingredients": [
+      {
+        "ingredientName": "High Quality Metal",
+        "amount": 60
+      },
+      {
+        "ingredientName": "Rifle Body",
+        "amount": 1
+      },
+      {
+        "ingredientName": "Metal Spring",
+        "amount": 3
+      },
+      {
+        "ingredientName": "Gears",
+        "amount": 2
+      }
+    ]
+  },
+  {
+    "name": "Holosight",
+    "ingredients": [
+      {
+        "ingredientName": "High Quality Metal",
+        "amount": 12
+      },
+      {
+        "ingredientName": "Tech Trash",
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "name": "Homing Missile Launcher",
+    "ingredients": [
+      {
+        "ingredientName": "High Quality Metal",
+        "amount": 20
+      },
+      {
+        "ingredientName": "Metal Pipe",
+        "amount": 3
+      },
+      {
+        "ingredientName": "Tech Trash",
+        "amount": 1
+      },
+      {
+        "ingredientName": "CCTV Camera",
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "name": "Hunting Bow",
+    "ingredients": [
+      {
+        "ingredientName": "Wood",
+        "amount": 200
+      },
+      {
+        "ingredientName": "Cloth",
+        "amount": 50
+      }
+    ]
+  },
+  {
+    "name": "L96 Rifle",
+    "ingredients": []
+  },
+  {
+    "name": "LR-300 Assault Rifle",
+    "ingredients": []
+  },
+  {
+    "name": "Longsword",
+    "ingredients": [
+      {
+        "ingredientName": "Metal Blade",
+        "amount": 2
+      },
+      {
+        "ingredientName": "Metal Fragments",
+        "amount": 100
+      }
+    ]
+  },
+  {
+    "name": "M249",
+    "ingredients": []
+  },
+  {
+    "name": "M39 Rifle",
+    "ingredients": []
+  },
+  {
+    "name": "M4 Shotgun",
+    "ingredients": []
+  },
+  {
+    "name": "M92 Pistol",
+    "ingredients": []
+  },
+  {
+    "name": "MP5A4",
+    "ingredients": [
+      {
+        "ingredientName": "High Quality Metal",
+        "amount": 15
+      },
+      {
+        "ingredientName": "SMG Body",
+        "amount": 1
+      },
+      {
+        "ingredientName": "Metal Spring",
+        "amount": 2
+      }
+    ]
+  },
+  {
+    "name": "Mace",
+    "ingredients": [
+      {
+        "ingredientName": "Wood",
+        "amount": 100
+      },
+      {
+        "ingredientName": "Metal Fragments",
+        "amount": 50
+      }
+    ]
+  },
+  {
+    "name": "Machete",
+    "ingredients": [
+      {
+        "ingredientName": "Scrap",
+        "amount": 10
+      }
+    ]
+  },
+  {
+    "name": "Military Flame Thrower",
+    "ingredients": []
+  },
+  {
+    "name": "Minigun",
+    "ingredients": []
+  },
+  {
+    "name": "Molotov Cocktail",
+    "ingredients": [
+      {
+        "ingredientName": "Cloth",
+        "amount": 10
+      },
+      {
+        "ingredientName": "Low Grade Fuel",
+        "amount": 50
+      }
+    ]
+  },
+  {
+    "name": "Multiple Grenade Launcher",
+    "ingredients": []
+  },
+  {
+    "name": "Muzzle Boost",
+    "ingredients": [
+      {
+        "ingredientName": "High Quality Metal",
+        "amount": 10
+      }
+    ]
+  },
+  {
+    "name": "Muzzle Brake",
+    "ingredients": [
+      {
+        "ingredientName": "High Quality Metal",
+        "amount": 8
+      }
+    ]
+  },
+  {
+    "name": "Nailgun",
+    "ingredients": [
+      {
+        "ingredientName": "Metal Fragments",
+        "amount": 75
+      },
+      {
+        "ingredientName": "Scrap",
+        "amount": 15
+      }
+    ]
+  },
+  {
+    "name": "Paddle",
+    "ingredients": [
+      {
+        "ingredientName": "Scrap",
+        "amount": 25
+      }
+    ]
+  },
+  {
+    "name": "Pitchfork",
+    "ingredients": []
+  },
+  {
+    "name": "Prototype 17",
+    "ingredients": []
+  },
+  {
+    "name": "Pump Shotgun",
+    "ingredients": [
+      {
+        "ingredientName": "High Quality Metal",
+        "amount": 15
+      },
+      {
+        "ingredientName": "Metal Pipe",
+        "amount": 2
+      },
+      {
+        "ingredientName": "Metal Spring",
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "name": "Python Revolver",
+    "ingredients": [
+      {
+        "ingredientName": "Metal Pipe",
+        "amount": 3
+      },
+      {
+        "ingredientName": "Metal Spring",
+        "amount": 1
+      },
+      {
+        "ingredientName": "High Quality Metal",
+        "amount": 10
+      }
+    ]
+  },
+  {
+    "name": "Revolver",
+    "ingredients": [
+      {
+        "ingredientName": "Scrap",
+        "amount": 200
+      }
+    ]
+  },
+  {
+    "name": "Rocket Launcher",
+    "ingredients": [
+      {
+        "ingredientName": "High Quality Metal",
+        "amount": 40
+      },
+      {
+        "ingredientName": "Metal Pipe",
+        "amount": 4
+      }
+    ]
+  },
+  {
+    "name": "Salvaged Cleaver",
+    "ingredients": [
+      {
+        "ingredientName": "Metal Fragments",
+        "amount": 50
+      },
+      {
+        "ingredientName": "Road Signs",
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "name": "Salvaged Sword",
+    "ingredients": [
+      {
+        "ingredientName": "Metal Fragments",
+        "amount": 15
+      },
+      {
+        "ingredientName": "Metal Blade",
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "name": "Semi-Automatic Pistol",
+    "ingredients": [
+      {
+        "ingredientName": "Semi Automatic Body",
+        "amount": 1
+      },
+      {
+        "ingredientName": "High Quality Metal",
+        "amount": 4
+      },
+      {
+        "ingredientName": "Metal Pipe",
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "name": "Semi-Automatic Rifle",
+    "ingredients": [
+      {
+        "ingredientName": "Semi Automatic Body",
+        "amount": 1
+      },
+      {
+        "ingredientName": "Metal Spring",
+        "amount": 1
+      },
+      {
+        "ingredientName": "Metal Fragments",
+        "amount": 450
+      },
+      {
+        "ingredientName": "High Quality Metal",
+        "amount": 4
+      }
+    ]
+  },
+  {
+    "name": "Silencer",
+    "ingredients": [
+      {
+        "ingredientName": "High Quality Metal",
+        "amount": 5
+      }
+    ]
+  },
+  {
+    "name": "Simple Handmade Sight",
+    "ingredients": [
+      {
+        "ingredientName": "High Quality Metal",
+        "amount": 6
+      }
+    ]
+  },
+  {
+    "name": "Skinning Knife",
+    "ingredients": [
+      {
+        "ingredientName": "Metal Fragments",
+        "amount": 15
+      }
+    ]
+  },
+  {
+    "name": "Snowball",
+    "ingredients": []
+  },
+  {
+    "name": "Snowball Gun",
+    "ingredients": []
+  },
+  {
+    "name": "Spas-12 Shotgun",
+    "ingredients": []
+  },
+  {
+    "name": "Speargun",
+    "ingredients": [
+      {
+        "ingredientName": "Metal Fragments",
+        "amount": 75
+      },
+      {
+        "ingredientName": "Empty Propane Tank",
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "name": "Stone Spear",
+    "ingredients": [
+      {
+        "ingredientName": "Scrap",
+        "amount": 10
+      }
+    ]
+  },
+  {
+    "name": "Thompson",
+    "ingredients": [
+      {
+        "ingredientName": "High Quality Metal",
+        "amount": 10
+      },
+      {
+        "ingredientName": "Wood",
+        "amount": 100
+      },
+      {
+        "ingredientName": "SMG Body",
+        "amount": 1
+      },
+      {
+        "ingredientName": "Metal Spring",
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "name": "Vampire Stake",
+    "ingredients": []
+  },
+  {
+    "name": "Water Gun",
+    "ingredients": [
+      {
+        "ingredientName": "Metal Fragments",
+        "amount": 25
+      }
+    ]
+  },
+  {
+    "name": "Water Pistol",
+    "ingredients": [
+      {
+        "ingredientName": "Metal Fragments",
+        "amount": 15
+      }
+    ]
+  },
+  {
+    "name": "Waterpipe Shotgun",
+    "ingredients": [
+      {
+        "ingredientName": "Wood",
+        "amount": 150
+      },
+      {
+        "ingredientName": "Metal Fragments",
+        "amount": 75
+      }
+    ]
+  },
+  {
+    "name": "Weapon Lasersight",
+    "ingredients": [
+      {
+        "ingredientName": "High Quality Metal",
+        "amount": 3
+      },
+      {
+        "ingredientName": "Tech Trash",
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "name": "Weapon flashlight",
+    "ingredients": [
+      {
+        "ingredientName": "High Quality Metal",
+        "amount": 3
+      }
+    ]
+  },
+  {
+    "name": "Wooden Spear",
+    "ingredients": [
+      {
+        "ingredientName": "Scrap",
+        "amount": 10
+      }
+    ]
+  },
+  {
+    "name": "Armored Door",
+    "ingredients": [
+      {
+        "ingredientName": "High Quality Metal",
+        "amount": 20
+      },
+      {
+        "ingredientName": "Gears",
+        "amount": 5
+      }
+    ]
+  },
+  {
+    "name": "Armored Double Door",
+    "ingredients": [
+      {
+        "ingredientName": "High Quality Metal",
+        "amount": 25
+      },
+      {
+        "ingredientName": "Gears",
+        "amount": 5
+      }
+    ]
+  },
+  {
+    "name": "Barbed Wooden Barricade",
+    "ingredients": [
+      {
+        "ingredientName": "Wood",
+        "amount": 300
+      },
+      {
+        "ingredientName": "Metal Fragments",
+        "amount": 50
+      },
+      {
+        "ingredientName": "Rope",
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "name": "Building Plan",
+    "ingredients": [
+      {
+        "ingredientName": "Scrap",
+        "amount": 10
+      }
+    ]
+  },
+  {
+    "name": "Chainlink Fence",
+    "ingredients": [
+      {
+        "ingredientName": "Metal Fragments",
+        "amount": 75
+      }
+    ]
+  },
+  {
+    "name": "Chainlink Fence Gate",
+    "ingredients": [
+      {
+        "ingredientName": "Metal Fragments",
+        "amount": 75
+      }
+    ]
+  },
+  {
+    "name": "Code Lock",
+    "ingredients": [
+      {
+        "ingredientName": "Scrap",
+        "amount": 10
+      }
+    ]
+  },
+  {
+    "name": "Concrete Barricade",
+    "ingredients": [
+      {
+        "ingredientName": "Stones",
+        "amount": 200
+      }
+    ]
+  },
+  {
+    "name": "Door Closer",
+    "ingredients": []
+  },
+  {
+    "name": "Floor grill",
+    "ingredients": [
+      {
+        "ingredientName": "Metal Fragments",
+        "amount": 75
+      }
+    ]
+  },
+  {
+    "name": "Floor triangle grill",
+    "ingredients": [
+      {
+        "ingredientName": "Metal Fragments",
+        "amount": 75
+      }
+    ]
+  },
+  {
+    "name": "Garage Door",
+    "ingredients": [
+      {
+        "ingredientName": "Metal Fragments",
+        "amount": 300
+      },
+      {
+        "ingredientName": "Gears",
+        "amount": 2
+      }
+    ]
+  },
+  {
+    "name": "High External Stone Gate",
+    "ingredients": [
+      {
+        "ingredientName": "Stones",
+        "amount": 3
+      },
+      {
+        "ingredientName": "Gears",
+        "amount": 5
+      }
+    ]
+  },
+  {
+    "name": "High External Stone Wall",
+    "ingredients": [
+      {
+        "ingredientName": "Stones",
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "name": "High External Wooden Gate",
+    "ingredients": [
+      {
+        "ingredientName": "Wood",
+        "amount": 3
+      },
+      {
+        "ingredientName": "Gears",
+        "amount": 2
+      }
+    ]
+  },
+  {
+    "name": "High External Wooden Wall",
+    "ingredients": [
+      {
+        "ingredientName": "Wood",
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "name": "High Ice Wall",
+    "ingredients": []
+  },
+  {
+    "name": "Key Lock",
+    "ingredients": [
+      {
+        "ingredientName": "Scrap",
+        "amount": 10
+      }
+    ]
+  },
+  {
+    "name": "Ladder Hatch",
+    "ingredients": [
+      {
+        "ingredientName": "Wooden Ladder",
+        "amount": 1
+      },
+      {
+        "ingredientName": "Metal Fragments",
+        "amount": 300
+      },
+      {
+        "ingredientName": "Gears",
+        "amount": 3
+      }
+    ]
+  },
+  {
+    "name": "Large Water Catcher",
+    "ingredients": [
+      {
+        "ingredientName": "Wood",
+        "amount": 500
+      },
+      {
+        "ingredientName": "Metal Fragments",
+        "amount": 200
+      },
+      {
+        "ingredientName": "Tarp",
+        "amount": 2
+      }
+    ]
+  },
+  {
+    "name": "Legacy Wood Shelter",
+    "ingredients": [
+      {
+        "ingredientName": "Wood",
+        "amount": 300
+      }
+    ]
+  },
+  {
+    "name": "Metal Barricade",
+    "ingredients": [
+      {
+        "ingredientName": "Metal Fragments",
+        "amount": 200
+      },
+      {
+        "ingredientName": "Metal Blade",
+        "amount": 2
+      }
+    ]
+  },
+  {
+    "name": "Metal Shop Front",
+    "ingredients": [
+      {
+        "ingredientName": "Scrap",
+        "amount": 10
+      }
+    ]
+  },
+  {
+    "name": "Metal Vertical embrasure",
+    "ingredients": [
+      {
+        "ingredientName": "Metal Fragments",
+        "amount": 100
+      }
+    ]
+  },
+  {
+    "name": "Metal Window Bars",
+    "ingredients": [
+      {
+        "ingredientName": "Metal Fragments",
+        "amount": 25
+      }
+    ]
+  },
+  {
+    "name": "Metal horizontal embrasure",
+    "ingredients": [
+      {
+        "ingredientName": "Metal Fragments",
+        "amount": 100
+      }
+    ]
+  },
+  {
+    "name": "Mining Quarry",
+    "ingredients": []
+  },
+  {
+    "name": "Netting",
+    "ingredients": [
+      {
+        "ingredientName": "Scrap",
+        "amount": 10
+      }
+    ]
+  },
+  {
+    "name": "Prison Cell Gate",
+    "ingredients": [
+      {
+        "ingredientName": "Metal Fragments",
+        "amount": 150
+      }
+    ]
+  },
+  {
+    "name": "Prison Cell Wall",
+    "ingredients": [
+      {
+        "ingredientName": "Metal Fragments",
+        "amount": 150
+      }
+    ]
+  },
+  {
+    "name": "Pump Jack",
+    "ingredients": []
+  },
+  {
+    "name": "Reinforced Glass Window",
+    "ingredients": [
+      {
+        "ingredientName": "High Quality Metal",
+        "amount": 4
+      }
+    ]
+  },
+  {
+    "name": "Sandbag Barricade",
+    "ingredients": [
+      {
+        "ingredientName": "Stones",
+        "amount": 100
+      },
+      {
+        "ingredientName": "Cloth",
+        "amount": 10
+      }
+    ]
+  },
+  {
+    "name": "Sheet Metal Door",
+    "ingredients": [
+      {
+        "ingredientName": "Scrap",
+        "amount": 10
+      }
+    ]
+  },
+  {
+    "name": "Sheet Metal Double Door",
+    "ingredients": [
+      {
+        "ingredientName": "Metal Fragments",
+        "amount": 100
+      }
+    ]
+  },
+  {
+    "name": "Shop Front",
+    "ingredients": [
+      {
+        "ingredientName": "Wood",
+        "amount": 75
+      }
+    ]
+  },
+  {
+    "name": "Short Ice Wall",
+    "ingredients": []
+  },
+  {
+    "name": "Small Water Catcher",
+    "ingredients": [
+      {
+        "ingredientName": "Wood",
+        "amount": 100
+      },
+      {
+        "ingredientName": "Metal Fragments",
+        "amount": 50
+      },
+      {
+        "ingredientName": "Tarp",
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "name": "Stone Barricade",
+    "ingredients": [
+      {
+        "ingredientName": "Stones",
+        "amount": 100
+      }
+    ]
+  },
+  {
+    "name": "Strengthened Glass Window",
+    "ingredients": [
+      {
+        "ingredientName": "Metal Fragments",
+        "amount": 50
+      }
+    ]
+  },
+  {
+    "name": "Tool Cupboard",
+    "ingredients": [
+      {
+        "ingredientName": "Scrap",
+        "amount": 10
+      }
+    ]
+  },
+  {
+    "name": "Triangle Ladder Hatch",
+    "ingredients": [
+      {
+        "ingredientName": "Wooden Ladder",
+        "amount": 1
+      },
+      {
+        "ingredientName": "Metal Fragments",
+        "amount": 300
+      },
+      {
+        "ingredientName": "Gears",
+        "amount": 3
+      }
+    ]
+  },
+  {
+    "name": "Watch Tower",
+    "ingredients": [
+      {
+        "ingredientName": "Wood",
+        "amount": 250
+      }
+    ]
+  },
+  {
+    "name": "Wood Double Door",
+    "ingredients": [
+      {
+        "ingredientName": "Scrap",
+        "amount": 10
+      }
+    ]
+  },
+  {
+    "name": "Wood Shutters",
+    "ingredients": [
+      {
+        "ingredientName": "Wood",
+        "amount": 200
+      }
+    ]
+  },
+  {
+    "name": "Wooden Barricade",
+    "ingredients": [
+      {
+        "ingredientName": "Wood",
+        "amount": 300
+      },
+      {
+        "ingredientName": "Rope",
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "name": "Wooden Barricade Cover",
+    "ingredients": [
+      {
+        "ingredientName": "Wood",
+        "amount": 250
+      }
+    ]
+  },
+  {
+    "name": "Wooden Door",
+    "ingredients": [
+      {
+        "ingredientName": "Wood",
+        "amount": 150
+      }
+    ]
+  },
+  {
+    "name": "Wooden Frontier Bar Doors",
+    "ingredients": [
+      {
+        "ingredientName": "Wood",
+        "amount": 100
+      }
+    ]
+  },
+  {
+    "name": "Wooden Ladder",
+    "ingredients": [
+      {
+        "ingredientName": "Wood",
+        "amount": 300
+      },
+      {
+        "ingredientName": "Rope",
+        "amount": 3
+      }
+    ]
+  },
+  {
+    "name": "Wooden Window Bars",
+    "ingredients": [
+      {
+        "ingredientName": "Scrap",
+        "amount": 10
+      }
+    ]
+  },
+  {
+    "name": "Advent Calendar",
+    "ingredients": []
+  },
+  {
+    "name": "Barbeque",
+    "ingredients": [
+      {
+        "ingredientName": "Scrap",
+        "amount": 10
+      }
+    ]
+  },
+  {
+    "name": "Bath Tub Planter",
+    "ingredients": []
+  },
+  {
+    "name": "Bed",
+    "ingredients": [
+      {
+        "ingredientName": "Cloth",
+        "amount": 60
+      },
+      {
+        "ingredientName": "Metal Fragments",
+        "amount": 100
+      },
+      {
+        "ingredientName": "Sewing Kit",
+        "amount": 2
+      }
+    ]
+  },
+  {
+    "name": "Bota Bag",
+    "ingredients": [
+      {
+        "ingredientName": "Scrap",
+        "amount": 10
+      }
+    ]
+  },
+  {
+    "name": "Camp Fire",
+    "ingredients": [
+      {
+        "ingredientName": "Scrap",
+        "amount": 10
+      }
+    ]
+  },
+  {
+    "name": "Carvable Pumpkin",
+    "ingredients": []
+  },
+  {
+    "name": "Chair",
+    "ingredients": [
+      {
+        "ingredientName": "Wood",
+        "amount": 50
+      },
+      {
+        "ingredientName": "Metal Fragments",
+        "amount": 75
+      }
+    ]
+  },
+  {
+    "name": "Chinese Lantern",
+    "ingredients": []
+  },
+  {
+    "name": "Chinese Lantern White",
+    "ingredients": []
+  },
+  {
+    "name": "Chippy Arcade Game",
+    "ingredients": [
+      {
+        "ingredientName": "High Quality Metal",
+        "amount": 2
+      },
+      {
+        "ingredientName": "Metal Fragments",
+        "amount": 10
+      }
+    ]
+  },
+  {
+    "name": "Christmas Door Wreath",
+    "ingredients": [
+      {
+        "ingredientName": "Cloth",
+        "amount": 4
+      }
+    ]
+  },
+  {
+    "name": "Christmas Lights",
+    "ingredients": [
+      {
+        "ingredientName": "Metal Fragments",
+        "amount": 10
+      },
+      {
+        "ingredientName": "Low Grade Fuel",
+        "amount": 8
+      }
+    ]
+  },
+  {
+    "name": "Christmas Tree",
+    "ingredients": []
+  },
+  {
+    "name": "Clan Table",
+    "ingredients": []
+  },
+  {
+    "name": "Composter",
+    "ingredients": [
+      {
+        "ingredientName": "Tarp",
+        "amount": 2
+      },
+      {
+        "ingredientName": "Wood",
+        "amount": 200
+      }
+    ]
+  },
+  {
+    "name": "Double Sign Post",
+    "ingredients": [
+      {
+        "ingredientName": "Wood",
+        "amount": 38
+      }
+    ]
+  },
+  {
+    "name": "Dragon Door Knocker",
+    "ingredients": [
+      {
+        "ingredientName": "Metal Fragments",
+        "amount": 4
+      }
+    ]
+  },
+  {
+    "name": "Drone",
+    "ingredients": [
+      {
+        "ingredientName": "Metal Fragments",
+        "amount": 200
+      },
+      {
+        "ingredientName": "CCTV Camera",
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "name": "Drop Box",
+    "ingredients": [
+      {
+        "ingredientName": "Scrap",
+        "amount": 40
+      }
+    ]
+  },
+  {
+    "name": "Easter Door Wreath",
+    "ingredients": [
+      {
+        "ingredientName": "Cloth",
+        "amount": 4
+      }
+    ]
+  },
+  {
+    "name": "Festive Doorway Garland",
+    "ingredients": [
+      {
+        "ingredientName": "Cloth",
+        "amount": 10
+      }
+    ]
+  },
+  {
+    "name": "Festive Double Doorway Garland",
+    "ingredients": [
+      {
+        "ingredientName": "Cloth",
+        "amount": 10
+      }
+    ]
+  },
+  {
+    "name": "Festive Window Garland",
+    "ingredients": [
+      {
+        "ingredientName": "Cloth",
+        "amount": 10
+      }
+    ]
+  },
+  {
+    "name": "Fish Trophy",
+    "ingredients": [
+      {
+        "ingredientName": "Wood",
+        "amount": 38
+      }
+    ]
+  },
+  {
+    "name": "Frankenstein Table",
+    "ingredients": []
+  },
+  {
+    "name": "Fridge",
+    "ingredients": [
+      {
+        "ingredientName": "Metal Fragments",
+        "amount": 75
+      }
+    ]
+  },
+  {
+    "name": "Frontier Bolts Single Item Rack",
+    "ingredients": [
+      {
+        "ingredientName": "Wood",
+        "amount": 50
+      },
+      {
+        "ingredientName": "Metal Fragments",
+        "amount": 60
+      }
+    ]
+  },
+  {
+    "name": "Frontier Horns Single Item Rack",
+    "ingredients": [
+      {
+        "ingredientName": "Wood",
+        "amount": 50
+      },
+      {
+        "ingredientName": "Metal Fragments",
+        "amount": 60
+      }
+    ]
+  },
+  {
+    "name": "Frontier Horseshoe Single Item Rack",
+    "ingredients": [
+      {
+        "ingredientName": "Wood",
+        "amount": 50
+      },
+      {
+        "ingredientName": "Metal Fragments",
+        "amount": 60
+      }
+    ]
+  },
+  {
+    "name": "Furnace",
+    "ingredients": [
+      {
+        "ingredientName": "Scrap",
+        "amount": 10
+      }
+    ]
+  },
+  {
+    "name": "Hazmat Youtooz",
+    "ingredients": [
+      {
+        "ingredientName": "Metal Fragments",
+        "amount": 20
+      }
+    ]
+  },
+  {
+    "name": "Heavy Scientist Youtooz",
+    "ingredients": [
+      {
+        "ingredientName": "Metal Fragments",
+        "amount": 20
+      }
+    ]
+  },
+  {
+    "name": "Hitch & Trough",
+    "ingredients": [
+      {
+        "ingredientName": "Hitch & Trough",
+        "amount": 1
+      },
+      {
+        "ingredientName": "Scrap",
+        "amount": 10
+      },
+      {
+        "ingredientName": "Hitch & Trough Blueprint",
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "name": "Hobo Barrel",
+    "ingredients": [
+      {
+        "ingredientName": "Raw Fish",
+        "amount": 1
+      },
+      {
+        "ingredientName": "Wood",
+        "amount": 1
+      },
+      {
+        "ingredientName": "Cooked Fish",
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "name": "Horizontal Weapon Rack",
+    "ingredients": [
+      {
+        "ingredientName": "Wood",
+        "amount": 50
+      },
+      {
+        "ingredientName": "Metal Fragments",
+        "amount": 60
+      }
+    ]
+  },
+  {
+    "name": "Huge Wooden Sign",
+    "ingredients": [
+      {
+        "ingredientName": "Wood",
+        "amount": 250
+      }
+    ]
+  },
+  {
+    "name": "Jack O Lantern Angry",
+    "ingredients": []
+  },
+  {
+    "name": "Jack O Lantern Happy",
+    "ingredients": []
+  },
+  {
+    "name": "Kayak",
+    "ingredients": [
+      {
+        "ingredientName": "Scrap",
+        "amount": 50
+      }
+    ]
+  },
+  {
+    "name": "Landscape Photo Frame",
+    "ingredients": [
+      {
+        "ingredientName": "Wood",
+        "amount": 38
+      }
+    ]
+  },
+  {
+    "name": "Landscape Picture Frame",
+    "ingredients": [
+      {
+        "ingredientName": "Wood",
+        "amount": 38
+      }
+    ]
+  },
+  {
+    "name": "Lantern",
+    "ingredients": [
+      {
+        "ingredientName": "Scrap",
+        "amount": 10
+      }
+    ]
+  },
+  {
+    "name": "Large Banner Hanging",
+    "ingredients": [
+      {
+        "ingredientName": "Cloth",
+        "amount": 10
+      },
+      {
+        "ingredientName": "Metal Fragments",
+        "amount": 50
+      }
+    ]
+  },
+  {
+    "name": "Large Banner on pole",
+    "ingredients": [
+      {
+        "ingredientName": "Wood",
+        "amount": 50
+      },
+      {
+        "ingredientName": "Metal Fragments",
+        "amount": 25
+      },
+      {
+        "ingredientName": "Cloth",
+        "amount": 10
+      }
+    ]
+  },
+  {
+    "name": "Large Furnace",
+    "ingredients": [
+      {
+        "ingredientName": "Scrap",
+        "amount": 350
+      }
+    ]
+  },
+  {
+    "name": "Large Hunting Trophy",
+    "ingredients": [
+      {
+        "ingredientName": "Wood",
+        "amount": 75
+      }
+    ]
+  },
+  {
+    "name": "Large Photo Frame",
+    "ingredients": [
+      {
+        "ingredientName": "Wood",
+        "amount": 50
+      }
+    ]
+  },
+  {
+    "name": "Large Planter Box",
+    "ingredients": [
+      {
+        "ingredientName": "Scrap",
+        "amount": 30
+      }
+    ]
+  },
+  {
+    "name": "Large Wood Box",
+    "ingredients": [
+      {
+        "ingredientName": "Scrap",
+        "amount": 10
+      }
+    ]
+  },
+  {
+    "name": "Large Wooden Sign",
+    "ingredients": [
+      {
+        "ingredientName": "Wood",
+        "amount": 150
+      }
+    ]
+  },
+  {
+    "name": "Locker",
+    "ingredients": [
+      {
+        "ingredientName": "Scrap",
+        "amount": 40
+      }
+    ]
+  },
+  {
+    "name": "Mail Box",
+    "ingredients": [
+      {
+        "ingredientName": "Wood",
+        "amount": 100
+      },
+      {
+        "ingredientName": "Metal Fragments",
+        "amount": 25
+      }
+    ]
+  },
+  {
+    "name": "Medium Wooden Sign",
+    "ingredients": [
+      {
+        "ingredientName": "Scrap",
+        "amount": 10
+      }
+    ]
+  },
+  {
+    "name": "Minecart Planter",
+    "ingredients": []
+  },
+  {
+    "name": "Mixing Table",
+    "ingredients": [
+      {
+        "ingredientName": "Scrap",
+        "amount": 175
+      }
+    ]
+  },
+  {
+    "name": "One Sided Town Sign Post",
+    "ingredients": [
+      {
+        "ingredientName": "Wood",
+        "amount": 50
+      }
+    ]
+  },
+  {
+    "name": "Paper Map",
+    "ingredients": []
+  },
+  {
+    "name": "Pookie Bear",
+    "ingredients": []
+  },
+  {
+    "name": "Portrait Photo Frame",
+    "ingredients": [
+      {
+        "ingredientName": "Wood",
+        "amount": 50
+      },
+      {
+        "ingredientName": "Cloth",
+        "amount": 5
+      }
+    ]
+  },
+  {
+    "name": "Portrait Picture Frame",
+    "ingredients": [
+      {
+        "ingredientName": "Wood",
+        "amount": 50
+      },
+      {
+        "ingredientName": "Cloth",
+        "amount": 5
+      }
+    ]
+  },
+  {
+    "name": "Rail Road Planter",
+    "ingredients": []
+  },
+  {
+    "name": "Repair Bench",
+    "ingredients": [
+      {
+        "ingredientName": "Scrap",
+        "amount": 10
+      }
+    ]
+  },
+  {
+    "name": "Research Table",
+    "ingredients": []
+  },
+  {
+    "name": "Rocking Chair",
+    "ingredients": [
+      {
+        "ingredientName": "Wood",
+        "amount": 65
+      }
+    ]
+  },
+  {
+    "name": "Rug",
+    "ingredients": [
+      {
+        "ingredientName": "Cloth",
+        "amount": 25
+      }
+    ]
+  },
+  {
+    "name": "Rug Bear Skin",
+    "ingredients": [
+      {
+        "ingredientName": "Leather",
+        "amount": 20
+      }
+    ]
+  },
+  {
+    "name": "SUPER Stocking",
+    "ingredients": []
+  },
+  {
+    "name": "Salvaged Shelves",
+    "ingredients": [
+      {
+        "ingredientName": "Scrap",
+        "amount": 25
+      }
+    ]
+  },
+  {
+    "name": "Scarecrow",
+    "ingredients": [
+      {
+        "ingredientName": "Wood",
+        "amount": 40
+      },
+      {
+        "ingredientName": "Cloth",
+        "amount": 2
+      }
+    ]
+  },
+  {
+    "name": "Secret Lab Chair",
+    "ingredients": [
+      {
+        "ingredientName": "Wood",
+        "amount": 25
+      },
+      {
+        "ingredientName": "Metal Fragments",
+        "amount": 38
+      }
+    ]
+  },
+  {
+    "name": "Single Sign Post",
+    "ingredients": [
+      {
+        "ingredientName": "Wood",
+        "amount": 38
+      }
+    ]
+  },
+  {
+    "name": "Skull Door Knocker",
+    "ingredients": [
+      {
+        "ingredientName": "Metal Fragments",
+        "amount": 4
+      }
+    ]
+  },
+  {
+    "name": "Skull Fire Pit",
+    "ingredients": [
+      {
+        "ingredientName": "Raw Fish",
+        "amount": 1
+      },
+      {
+        "ingredientName": "Wood",
+        "amount": 1
+      },
+      {
+        "ingredientName": "Cooked Fish",
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "name": "Sleeping Bag",
+    "ingredients": [
+      {
+        "ingredientName": "Scrap",
+        "amount": 10
+      }
+    ]
+  },
+  {
+    "name": "Small Hunting Trophy",
+    "ingredients": [
+      {
+        "ingredientName": "Wood",
+        "amount": 50
+      }
+    ]
+  },
+  {
+    "name": "Small Oil Refinery",
+    "ingredients": [
+      {
+        "ingredientName": "Scrap",
+        "amount": 125
+      }
+    ]
+  },
+  {
+    "name": "Small Planter Box",
+    "ingredients": []
+  },
+  {
+    "name": "Small Stash",
+    "ingredients": []
+  },
+  {
+    "name": "Small Stocking",
+    "ingredients": []
+  },
+  {
+    "name": "Small Wooden Sign",
+    "ingredients": [
+      {
+        "ingredientName": "Scrap",
+        "amount": 10
+      }
+    ]
+  },
+  {
+    "name": "Snowman",
+    "ingredients": [
+      {
+        "ingredientName": "Charcoal",
+        "amount": 10
+      },
+      {
+        "ingredientName": "Cloth",
+        "amount": 4
+      },
+      {
+        "ingredientName": "Metal Fragments",
+        "amount": 4
+      }
+    ]
+  },
+  {
+    "name": "Sofa",
+    "ingredients": [
+      {
+        "ingredientName": "Wood",
+        "amount": 50
+      },
+      {
+        "ingredientName": "Cloth",
+        "amount": 15
+      }
+    ]
+  },
+  {
+    "name": "Sofa - Pattern",
+    "ingredients": [
+      {
+        "ingredientName": "Wood",
+        "amount": 50
+      },
+      {
+        "ingredientName": "Cloth",
+        "amount": 15
+      }
+    ]
+  },
+  {
+    "name": "Spinning wheel",
+    "ingredients": [
+      {
+        "ingredientName": "Metal Fragments",
+        "amount": 150
+      }
+    ]
+  },
+  {
+    "name": "Stone Fireplace",
+    "ingredients": [
+      {
+        "ingredientName": "Stones",
+        "amount": 500
+      },
+      {
+        "ingredientName": "Wood",
+        "amount": 200
+      }
+    ]
+  },
+  {
+    "name": "Storage Barrel Horizontal",
+    "ingredients": [
+      {
+        "ingredientName": "Wood",
+        "amount": 60
+      },
+      {
+        "ingredientName": "Metal Fragments",
+        "amount": 15
+      }
+    ]
+  },
+  {
+    "name": "Storage Barrel Vertical",
+    "ingredients": [
+      {
+        "ingredientName": "Wood",
+        "amount": 60
+      },
+      {
+        "ingredientName": "Metal Fragments",
+        "amount": 15
+      }
+    ]
+  },
+  {
+    "name": "Survival Fish Trap",
+    "ingredients": [
+      {
+        "ingredientName": "Scrap",
+        "amount": 10
+      }
+    ]
+  },
+  {
+    "name": "Table",
+    "ingredients": [
+      {
+        "ingredientName": "Wood",
+        "amount": 100
+      }
+    ]
+  },
+  {
+    "name": "Tall Picture Frame",
+    "ingredients": [
+      {
+        "ingredientName": "Wood",
+        "amount": 75
+      },
+      {
+        "ingredientName": "Cloth",
+        "amount": 5
+      }
+    ]
+  },
+  {
+    "name": "Tall Weapon Rack",
+    "ingredients": [
+      {
+        "ingredientName": "Wood",
+        "amount": 50
+      },
+      {
+        "ingredientName": "Metal Fragments",
+        "amount": 88
+      }
+    ]
+  },
+  {
+    "name": "Torch Holder",
+    "ingredients": [
+      {
+        "ingredientName": "Wood",
+        "amount": 20
+      },
+      {
+        "ingredientName": "Metal Fragments",
+        "amount": 5
+      }
+    ]
+  },
+  {
+    "name": "Tuna Can Lamp",
+    "ingredients": [
+      {
+        "ingredientName": "Scrap",
+        "amount": 5
+      }
+    ]
+  },
+  {
+    "name": "Twitch Rivals Trophy",
+    "ingredients": [
+      {
+        "ingredientName": "Metal Fragments",
+        "amount": 20
+      }
+    ]
+  },
+  {
+    "name": "Twitch Rivals Trophy 2023",
+    "ingredients": [
+      {
+        "ingredientName": "Metal Fragments",
+        "amount": 20
+      }
+    ]
+  },
+  {
+    "name": "Two Sided Hanging Sign",
+    "ingredients": [
+      {
+        "ingredientName": "Metal Fragments",
+        "amount": 75
+      }
+    ]
+  },
+  {
+    "name": "Two Sided Ornate Hanging Sign",
+    "ingredients": [
+      {
+        "ingredientName": "Metal Fragments",
+        "amount": 50
+      }
+    ]
+  },
+  {
+    "name": "Two Sided Town Sign Post",
+    "ingredients": [
+      {
+        "ingredientName": "Wood",
+        "amount": 50
+      },
+      {
+        "ingredientName": "Metal Fragments",
+        "amount": 25
+      }
+    ]
+  },
+  {
+    "name": "Vending Machine",
+    "ingredients": [
+      {
+        "ingredientName": "Scrap",
+        "amount": 10
+      }
+    ]
+  },
+  {
+    "name": "Wanted Poster",
+    "ingredients": [
+      {
+        "ingredientName": "Wood",
+        "amount": 10
+      }
+    ]
+  },
+  {
+    "name": "Water Barrel",
+    "ingredients": [
+      {
+        "ingredientName": "Scrap",
+        "amount": 30
+      }
+    ]
+  },
+  {
+    "name": "Water Purifier",
+    "ingredients": [
+      {
+        "ingredientName": "Scrap",
+        "amount": 10
+      }
+    ]
+  },
+  {
+    "name": "Weapon Rack Stand",
+    "ingredients": [
+      {
+        "ingredientName": "Wood",
+        "amount": 100
+      },
+      {
+        "ingredientName": "Metal Fragments",
+        "amount": 38
+      }
+    ]
+  },
+  {
+    "name": "Wide Weapon Rack",
+    "ingredients": [
+      {
+        "ingredientName": "Wood",
+        "amount": 50
+      },
+      {
+        "ingredientName": "Metal Fragments",
+        "amount": 88
+      }
+    ]
+  },
+  {
+    "name": "Wood Storage Box",
+    "ingredients": [
+      {
+        "ingredientName": "Scrap",
+        "amount": 10
+      }
+    ]
+  },
+  {
+    "name": "Workbench Level 1",
+    "ingredients": [
+      {
+        "ingredientName": "Wood",
+        "amount": 100
+      },
+      {
+        "ingredientName": "Metal Fragments",
+        "amount": 20
+      },
+      {
+        "ingredientName": "Scrap",
+        "amount": 10
+      }
+    ]
+  },
+  {
+    "name": "Workbench Level 2",
+    "ingredients": [
+      {
+        "ingredientName": "Metal Fragments",
+        "amount": 100
+      },
+      {
+        "ingredientName": "High Quality Metal",
+        "amount": 4
+      },
+      {
+        "ingredientName": "Scrap",
+        "amount": 100
+      }
+    ]
+  },
+  {
+    "name": "Workbench Level 3",
+    "ingredients": [
+      {
+        "ingredientName": "Metal Fragments",
+        "amount": 200
+      },
+      {
+        "ingredientName": "High Quality Metal",
+        "amount": 20
+      },
+      {
+        "ingredientName": "Scrap",
+        "amount": 250
+      }
+    ]
+  },
+  {
+    "name": "XL Picture Frame",
+    "ingredients": [
+      {
+        "ingredientName": "Wood",
+        "amount": 75
+      },
+      {
+        "ingredientName": "Cloth",
+        "amount": 8
+      }
+    ]
+  },
+  {
+    "name": "XXL Picture Frame",
+    "ingredients": [
+      {
+        "ingredientName": "Wood",
+        "amount": 88
+      },
+      {
+        "ingredientName": "Cloth",
+        "amount": 15
+      }
+    ]
+  },
+  {
+    "name": "Animal Fat",
+    "ingredients": []
+  },
+  {
+    "name": "Battery - Small",
+    "ingredients": []
+  },
+  {
+    "name": "Bone Fragments",
+    "ingredients": []
+  },
+  {
+    "name": "CCTV Camera",
+    "ingredients": []
+  },
+  {
+    "name": "Charcoal",
+    "ingredients": []
+  },
+  {
+    "name": "Cloth",
+    "ingredients": []
+  },
+  {
+    "name": "Coal :(",
+    "ingredients": []
+  },
+  {
+    "name": "Crude Oil",
+    "ingredients": []
+  },
+  {
+    "name": "Diesel Fuel",
+    "ingredients": []
+  },
+  {
+    "name": "Empty Can Of Beans",
+    "ingredients": []
+  },
+  {
+    "name": "Empty Tuna Can",
+    "ingredients": []
+  },
+  {
+    "name": "Explosives",
+    "ingredients": [
+      {
+        "ingredientName": "Gun Powder",
+        "amount": 50
+      },
+      {
+        "ingredientName": "Low Grade Fuel",
+        "amount": 3
+      },
+      {
+        "ingredientName": "Sulfur",
+        "amount": 10
+      },
+      {
+        "ingredientName": "Metal Fragments",
+        "amount": 10
+      }
+    ]
+  },
+  {
+    "name": "Fertilizer",
+    "ingredients": []
+  },
+  {
+    "name": "Gun Powder",
+    "ingredients": [
+      {
+        "ingredientName": "Charcoal",
+        "amount": 30
+      },
+      {
+        "ingredientName": "Sulfur",
+        "amount": 20
+      }
+    ]
+  },
+  {
+    "name": "High Quality Metal",
+    "ingredients": []
+  },
+  {
+    "name": "High Quality Metal Ore",
+    "ingredients": []
+  },
+  {
+    "name": "Horse Dung",
+    "ingredients": []
+  },
+  {
+    "name": "Human Skull",
+    "ingredients": []
+  },
+  {
+    "name": "Leather",
+    "ingredients": []
+  },
+  {
+    "name": "Low Grade Fuel",
+    "ingredients": [
+      {
+        "ingredientName": "Scrap",
+        "amount": 10
+      }
+    ]
+  },
+  {
+    "name": "Metal Fragments",
+    "ingredients": []
+  },
+  {
+    "name": "Metal Ore",
+    "ingredients": []
+  },
+  {
+    "name": "Paper",
+    "ingredients": []
+  },
+  {
+    "name": "Plant Fiber",
+    "ingredients": []
+  },
+  {
+    "name": "Research Paper",
+    "ingredients": []
+  },
+  {
+    "name": "Salt Water",
+    "ingredients": []
+  },
+  {
+    "name": "Scrap",
+    "ingredients": []
+  },
+  {
+    "name": "Stones",
+    "ingredients": []
+  },
+  {
+    "name": "Sulfur",
+    "ingredients": []
+  },
+  {
+    "name": "Sulfur Ore",
+    "ingredients": []
+  },
+  {
+    "name": "Targeting Computer",
+    "ingredients": []
+  },
+  {
+    "name": "Water",
+    "ingredients": []
+  },
+  {
+    "name": "Wolf Skull",
+    "ingredients": []
+  },
+  {
+    "name": "Wood",
+    "ingredients": []
+  },
+  {
+    "name": "A Barrel Costume",
+    "ingredients": []
+  },
+  {
+    "name": "Arctic Scientist Suit",
+    "ingredients": []
+  },
+  {
+    "name": "Arctic Suit",
+    "ingredients": []
+  },
+  {
+    "name": "Bandana Mask",
+    "ingredients": [
+      {
+        "ingredientName": "Cloth",
+        "amount": 5
+      }
+    ]
+  },
+  {
+    "name": "Bandit Guard Gear",
+    "ingredients": []
+  },
+  {
+    "name": "Baseball Cap",
+    "ingredients": [
+      {
+        "ingredientName": "Cloth",
+        "amount": 5
+      }
+    ]
+  },
+  {
+    "name": "Basic Horse Shoes",
+    "ingredients": []
+  },
+  {
+    "name": "Beenie Hat",
+    "ingredients": [
+      {
+        "ingredientName": "Cloth",
+        "amount": 15
+      }
+    ]
+  },
+  {
+    "name": "Blue Jumpsuit",
+    "ingredients": []
+  },
+  {
+    "name": "Bone Armor",
+    "ingredients": [
+      {
+        "ingredientName": "Scrap",
+        "amount": 10
+      }
+    ]
+  },
+  {
+    "name": "Bone Helmet",
+    "ingredients": [
+      {
+        "ingredientName": "Scrap",
+        "amount": 10
+      }
+    ]
+  },
+  {
+    "name": "Boonie Hat",
+    "ingredients": [
+      {
+        "ingredientName": "Cloth",
+        "amount": 10
+      }
+    ]
+  },
+  {
+    "name": "Boots",
+    "ingredients": [
+      {
+        "ingredientName": "Scrap",
+        "amount": 20
+      }
+    ]
+  },
+  {
+    "name": "Bucket Helmet",
+    "ingredients": [
+      {
+        "ingredientName": "Metal Fragments",
+        "amount": 35
+      }
+    ]
+  },
+  {
+    "name": "Bunny Ears",
+    "ingredients": []
+  },
+  {
+    "name": "Bunny Hat",
+    "ingredients": [
+      {
+        "ingredientName": "Cloth",
+        "amount": 4
+      }
+    ]
+  },
+  {
+    "name": "Bunny Onesie",
+    "ingredients": []
+  },
+  {
+    "name": "Burlap Gloves",
+    "ingredients": [
+      {
+        "ingredientName": "Scrap",
+        "amount": 10
+      }
+    ]
+  },
+  {
+    "name": "Burlap Headwrap",
+    "ingredients": [
+      {
+        "ingredientName": "Scrap",
+        "amount": 10
+      }
+    ]
+  },
+  {
+    "name": "Burlap Shirt",
+    "ingredients": [
+      {
+        "ingredientName": "Scrap",
+        "amount": 10
+      }
+    ]
+  },
+  {
+    "name": "Burlap Shoes",
+    "ingredients": [
+      {
+        "ingredientName": "Scrap",
+        "amount": 10
+      }
+    ]
+  },
+  {
+    "name": "Burlap Trousers",
+    "ingredients": [
+      {
+        "ingredientName": "Scrap",
+        "amount": 10
+      }
+    ]
+  },
+  {
+    "name": "Candle Hat",
+    "ingredients": [
+      {
+        "ingredientName": "Cloth",
+        "amount": 15
+      },
+      {
+        "ingredientName": "Low Grade Fuel",
+        "amount": 5
+      }
+    ]
+  },
+  {
+    "name": "Card Movember Moustache",
+    "ingredients": []
+  },
+  {
+    "name": "Chicken Costume",
+    "ingredients": [
+      {
+        "ingredientName": "Cloth",
+        "amount": 5
+      },
+      {
+        "ingredientName": "Wood",
+        "amount": 40
+      }
+    ]
+  },
+  {
+    "name": "Clatter Helmet",
+    "ingredients": [
+      {
+        "ingredientName": "Metal Fragments",
+        "amount": 14
+      }
+    ]
+  },
+  {
+    "name": "Coffee Can Helmet",
+    "ingredients": [
+      {
+        "ingredientName": "Cloth",
+        "amount": 15
+      },
+      {
+        "ingredientName": "Metal Fragments",
+        "amount": 60
+      },
+      {
+        "ingredientName": "Sewing Kit",
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "name": "Crate Costume",
+    "ingredients": []
+  },
+  {
+    "name": "Diving Fins",
+    "ingredients": []
+  },
+  {
+    "name": "Diving Mask",
+    "ingredients": []
+  },
+  {
+    "name": "Diving Tank",
+    "ingredients": []
+  },
+  {
+    "name": "Double Horse Saddle",
+    "ingredients": []
+  },
+  {
+    "name": "Dracula Cape",
+    "ingredients": []
+  },
+  {
+    "name": "Dracula Mask",
+    "ingredients": [
+      {
+        "ingredientName": "Cloth",
+        "amount": 4
+      }
+    ]
+  },
+  {
+    "name": "Dragon Mask",
+    "ingredients": [
+      {
+        "ingredientName": "Cloth",
+        "amount": 4
+      },
+      {
+        "ingredientName": "Wolf Skull",
+        "amount": 40
+      }
+    ]
+  },
+  {
+    "name": "Egg Suit",
+    "ingredients": [
+      {
+        "ingredientName": "Cloth",
+        "amount": 20
+      }
+    ]
+  },
+  {
+    "name": "Frog Boots",
+    "ingredients": [
+      {
+        "ingredientName": "Tarp",
+        "amount": 40
+      }
+    ]
+  },
+  {
+    "name": "Gas Mask",
+    "ingredients": []
+  },
+  {
+    "name": "Ghost Costume",
+    "ingredients": []
+  },
+  {
+    "name": "Gingerbread Suit",
+    "ingredients": []
+  },
+  {
+    "name": "Glowing Eyes",
+    "ingredients": []
+  },
+  {
+    "name": "Hazmat Suit",
+    "ingredients": [
+      {
+        "ingredientName": "Tarp",
+        "amount": 5
+      },
+      {
+        "ingredientName": "Sewing Kit",
+        "amount": 2
+      },
+      {
+        "ingredientName": "High Quality Metal",
+        "amount": 8
+      }
+    ]
+  },
+  {
+    "name": "Headset",
+    "ingredients": [
+      {
+        "ingredientName": "Cloth",
+        "amount": 4
+      }
+    ]
+  },
+  {
+    "name": "Heavy Frankenstein Head",
+    "ingredients": []
+  },
+  {
+    "name": "Heavy Frankenstein Legs",
+    "ingredients": []
+  },
+  {
+    "name": "Heavy Frankenstein Torso",
+    "ingredients": []
+  },
+  {
+    "name": "Heavy Plate Helmet",
+    "ingredients": [
+      {
+        "ingredientName": "Sheet Metal",
+        "amount": 1
+      },
+      {
+        "ingredientName": "High Quality Metal",
+        "amount": 4
+      }
+    ]
+  },
+  {
+    "name": "Heavy Plate Jacket",
+    "ingredients": [
+      {
+        "ingredientName": "Sheet Metal",
+        "amount": 2
+      },
+      {
+        "ingredientName": "High Quality Metal",
+        "amount": 4
+      }
+    ]
+  },
+  {
+    "name": "Heavy Plate Pants",
+    "ingredients": [
+      {
+        "ingredientName": "Sheet Metal",
+        "amount": 1
+      },
+      {
+        "ingredientName": "High Quality Metal",
+        "amount": 4
+      }
+    ]
+  },
+  {
+    "name": "Heavy Scientist Suit",
+    "ingredients": []
+  },
+  {
+    "name": "Hide Boots",
+    "ingredients": [
+      {
+        "ingredientName": "Scrap",
+        "amount": 10
+      }
+    ]
+  },
+  {
+    "name": "Hide Halterneck",
+    "ingredients": [
+      {
+        "ingredientName": "Scrap",
+        "amount": 10
+      }
+    ]
+  },
+  {
+    "name": "Hide Pants",
+    "ingredients": [
+      {
+        "ingredientName": "Scrap",
+        "amount": 10
+      }
+    ]
+  },
+  {
+    "name": "Hide Poncho",
+    "ingredients": [
+      {
+        "ingredientName": "Scrap",
+        "amount": 10
+      }
+    ]
+  },
+  {
+    "name": "Hide Skirt",
+    "ingredients": [
+      {
+        "ingredientName": "Scrap",
+        "amount": 10
+      }
+    ]
+  },
+  {
+    "name": "Hide Vest",
+    "ingredients": [
+      {
+        "ingredientName": "Scrap",
+        "amount": 10
+      }
+    ]
+  },
+  {
+    "name": "High Quality Horse Shoes",
+    "ingredients": [
+      {
+        "ingredientName": "Scrap",
+        "amount": 40
+      }
+    ]
+  },
+  {
+    "name": "Hoodie",
+    "ingredients": [
+      {
+        "ingredientName": "Cloth",
+        "amount": 40
+      },
+      {
+        "ingredientName": "Sewing Kit",
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "name": "Horse Saddle",
+    "ingredients": []
+  },
+  {
+    "name": "Hot Air Balloon Armor",
+    "ingredients": [
+      {
+        "ingredientName": "Scrap",
+        "amount": 70
+      }
+    ]
+  },
+  {
+    "name": "Improvised Balaclava",
+    "ingredients": [
+      {
+        "ingredientName": "Cloth",
+        "amount": 15
+      }
+    ]
+  },
+  {
+    "name": "Jacket",
+    "ingredients": [
+      {
+        "ingredientName": "Cloth",
+        "amount": 50
+      },
+      {
+        "ingredientName": "Sewing Kit",
+        "amount": 2
+      }
+    ]
+  },
+  {
+    "name": "Jumpsuit",
+    "ingredients": []
+  },
+  {
+    "name": "Large Backpack",
+    "ingredients": []
+  },
+  {
+    "name": "Leather Gloves",
+    "ingredients": [
+      {
+        "ingredientName": "Leather",
+        "amount": 20
+      },
+      {
+        "ingredientName": "Sewing Kit",
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "name": "Light Frankenstein Head",
+    "ingredients": []
+  },
+  {
+    "name": "Light Frankenstein Legs",
+    "ingredients": []
+  },
+  {
+    "name": "Light Frankenstein Torso",
+    "ingredients": []
+  },
+  {
+    "name": "Longsleeve T-Shirt",
+    "ingredients": [
+      {
+        "ingredientName": "Scrap",
+        "amount": 10
+      }
+    ]
+  },
+  {
+    "name": "Lumberjack Hoodie",
+    "ingredients": []
+  },
+  {
+    "name": "Medium Frankenstein Head",
+    "ingredients": []
+  },
+  {
+    "name": "Medium Frankenstein Legs",
+    "ingredients": []
+  },
+  {
+    "name": "Medium Frankenstein Torso",
+    "ingredients": []
+  },
+  {
+    "name": "Metal Chest Plate",
+    "ingredients": [
+      {
+        "ingredientName": "Leather",
+        "amount": 50
+      },
+      {
+        "ingredientName": "High Quality Metal",
+        "amount": 18
+      },
+      {
+        "ingredientName": "Sewing Kit",
+        "amount": 8
+      }
+    ]
+  },
+  {
+    "name": "Metal Facemask",
+    "ingredients": [
+      {
+        "ingredientName": "Leather",
+        "amount": 50
+      },
+      {
+        "ingredientName": "High Quality Metal",
+        "amount": 15
+      },
+      {
+        "ingredientName": "Sewing Kit",
+        "amount": 6
+      }
+    ]
+  },
+  {
+    "name": "Miners Hat",
+    "ingredients": [
+      {
+        "ingredientName": "Cloth",
+        "amount": 15
+      },
+      {
+        "ingredientName": "Low Grade Fuel",
+        "amount": 10
+      },
+      {
+        "ingredientName": "Metal Fragments",
+        "amount": 50
+      }
+    ]
+  },
+  {
+    "name": "Movember Moustache",
+    "ingredients": [
+      {
+        "ingredientName": "Cloth",
+        "amount": 4
+      }
+    ]
+  },
+  {
+    "name": "Mummy Suit",
+    "ingredients": []
+  },
+  {
+    "name": "NVGM Scientist Suit",
+    "ingredients": []
+  },
+  {
+    "name": "Nest Hat",
+    "ingredients": [
+      {
+        "ingredientName": "Cloth",
+        "amount": 4
+      },
+      {
+        "ingredientName": "Wolf Skull",
+        "amount": 40
+      }
+    ]
+  },
+  {
+    "name": "Night Vision Goggles",
+    "ingredients": [
+      {
+        "ingredientName": "Scrap",
+        "amount": 250
+      }
+    ]
+  },
+  {
+    "name": "Ninja Suit",
+    "ingredients": [
+      {
+        "ingredientName": "Cloth",
+        "amount": 24
+      },
+      {
+        "ingredientName": "Sewing Kit",
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "name": "Ox Mask",
+    "ingredients": [
+      {
+        "ingredientName": "Cloth",
+        "amount": 4
+      },
+      {
+        "ingredientName": "Wolf Skull",
+        "amount": 40
+      }
+    ]
+  },
+  {
+    "name": "Pants",
+    "ingredients": [
+      {
+        "ingredientName": "Cloth",
+        "amount": 40
+      },
+      {
+        "ingredientName": "Sewing Kit",
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "name": "Parachute",
+    "ingredients": [
+      {
+        "ingredientName": "Tarp",
+        "amount": 2
+      },
+      {
+        "ingredientName": "Sewing Kit",
+        "amount": 2
+      },
+      {
+        "ingredientName": "Cloth",
+        "amount": 50
+      }
+    ]
+  },
+  {
+    "name": "Party Hat",
+    "ingredients": []
+  },
+  {
+    "name": "Prisoner Hood",
+    "ingredients": [
+      {
+        "ingredientName": "Cloth",
+        "amount": 20
+      }
+    ]
+  },
+  {
+    "name": "Purple Sunglasses",
+    "ingredients": [
+      {
+        "ingredientName": "Metal Fragments",
+        "amount": 6
+      }
+    ]
+  },
+  {
+    "name": "Rabbit Mask",
+    "ingredients": [
+      {
+        "ingredientName": "Cloth",
+        "amount": 4
+      },
+      {
+        "ingredientName": "Wolf Skull",
+        "amount": 40
+      }
+    ]
+  },
+  {
+    "name": "Rat Mask",
+    "ingredients": [
+      {
+        "ingredientName": "Cloth",
+        "amount": 4
+      },
+      {
+        "ingredientName": "Wolf Skull",
+        "amount": 40
+      }
+    ]
+  },
+  {
+    "name": "Reindeer Antlers",
+    "ingredients": []
+  },
+  {
+    "name": "Riot Helmet",
+    "ingredients": [
+      {
+        "ingredientName": "Cloth",
+        "amount": 10
+      },
+      {
+        "ingredientName": "Metal Fragments",
+        "amount": 50
+      }
+    ]
+  },
+  {
+    "name": "Road Sign Jacket",
+    "ingredients": [
+      {
+        "ingredientName": "Leather",
+        "amount": 20
+      },
+      {
+        "ingredientName": "Road Signs",
+        "amount": 2
+      },
+      {
+        "ingredientName": "Sewing Kit",
+        "amount": 2
+      }
+    ]
+  },
+  {
+    "name": "Road Sign Kilt",
+    "ingredients": [
+      {
+        "ingredientName": "Leather",
+        "amount": 10
+      },
+      {
+        "ingredientName": "Road Signs",
+        "amount": 1
+      },
+      {
+        "ingredientName": "Sewing Kit",
+        "amount": 2
+      }
+    ]
+  },
+  {
+    "name": "Roadsign Gloves",
+    "ingredients": [
+      {
+        "ingredientName": "Scrap",
+        "amount": 40
+      }
+    ]
+  },
+  {
+    "name": "Roadsign Horse Armor",
+    "ingredients": [
+      {
+        "ingredientName": "Scrap",
+        "amount": 100
+      }
+    ]
+  },
+  {
+    "name": "Saddle bag",
+    "ingredients": []
+  },
+  {
+    "name": "Santa Beard",
+    "ingredients": [
+      {
+        "ingredientName": "Cloth",
+        "amount": 4
+      }
+    ]
+  },
+  {
+    "name": "Santa Hat",
+    "ingredients": []
+  },
+  {
+    "name": "Scarecrow Suit",
+    "ingredients": []
+  },
+  {
+    "name": "Scarecrow Wrap",
+    "ingredients": []
+  },
+  {
+    "name": "Scientist Suit",
+    "ingredients": []
+  },
+  {
+    "name": "Shirt",
+    "ingredients": [
+      {
+        "ingredientName": "Cloth",
+        "amount": 25
+      }
+    ]
+  },
+  {
+    "name": "Shorts",
+    "ingredients": [
+      {
+        "ingredientName": "Cloth",
+        "amount": 30
+      }
+    ]
+  },
+  {
+    "name": "Single Horse Saddle",
+    "ingredients": []
+  },
+  {
+    "name": "Small Backpack",
+    "ingredients": [
+      {
+        "ingredientName": "Cloth",
+        "amount": 30
+      }
+    ]
+  },
+  {
+    "name": "Snow Jacket",
+    "ingredients": [
+      {
+        "ingredientName": "Scrap",
+        "amount": 20
+      }
+    ]
+  },
+  {
+    "name": "Snowman Helmet",
+    "ingredients": [
+      {
+        "ingredientName": "Cloth",
+        "amount": 4
+      }
+    ]
+  },
+  {
+    "name": "Sunglasses",
+    "ingredients": [
+      {
+        "ingredientName": "Metal Fragments",
+        "amount": 6
+      }
+    ]
+  },
+  {
+    "name": "Surgeon Scrubs",
+    "ingredients": [
+      {
+        "ingredientName": "Cloth",
+        "amount": 24
+      },
+      {
+        "ingredientName": "Sewing Kit",
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "name": "T-Shirt",
+    "ingredients": [
+      {
+        "ingredientName": "Scrap",
+        "amount": 5
+      }
+    ]
+  },
+  {
+    "name": "Tactical Gloves",
+    "ingredients": []
+  },
+  {
+    "name": "Tank Top",
+    "ingredients": [
+      {
+        "ingredientName": "Cloth",
+        "amount": 20
+      }
+    ]
+  },
+  {
+    "name": "Tiger Mask",
+    "ingredients": [
+      {
+        "ingredientName": "Cloth",
+        "amount": 4
+      },
+      {
+        "ingredientName": "Wolf Skull",
+        "amount": 40
+      }
+    ]
+  },
+  {
+    "name": "Wetsuit",
+    "ingredients": []
+  },
+  {
+    "name": "Wolf Headdress",
+    "ingredients": [
+      {
+        "ingredientName": "Scrap",
+        "amount": 10
+      }
+    ]
+  },
+  {
+    "name": "Wood Armor Helmet",
+    "ingredients": [
+      {
+        "ingredientName": "Scrap",
+        "amount": 10
+      }
+    ]
+  },
+  {
+    "name": "Wood Armor Pants",
+    "ingredients": [
+      {
+        "ingredientName": "Rope",
+        "amount": 1
+      },
+      {
+        "ingredientName": "Wood",
+        "amount": 200
+      }
+    ]
+  },
+  {
+    "name": "Wood Chestplate",
+    "ingredients": [
+      {
+        "ingredientName": "Rope",
+        "amount": 1
+      },
+      {
+        "ingredientName": "Wood",
+        "amount": 300
+      }
+    ]
+  },
+  {
+    "name": "Wooden Horse Armor",
+    "ingredients": [
+      {
+        "ingredientName": "Scrap",
+        "amount": 10
+      }
+    ]
+  },
+  {
+    "name": "Binoculars",
+    "ingredients": [
+      {
+        "ingredientName": "Metal Fragments",
+        "amount": 40
+      },
+      {
+        "ingredientName": "Gears",
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "name": "Birthday Cake",
+    "ingredients": []
+  },
+  {
+    "name": "Camera",
+    "ingredients": []
+  },
+  {
+    "name": "Chainsaw",
+    "ingredients": [
+      {
+        "ingredientName": "Scrap",
+        "amount": 125
+      }
+    ]
+  },
+  {
+    "name": "Fishing Tackle",
+    "ingredients": []
+  },
+  {
+    "name": "Flare",
+    "ingredients": []
+  },
+  {
+    "name": "Flashlight",
+    "ingredients": [
+      {
+        "ingredientName": "Metal Fragments",
+        "amount": 30
+      }
+    ]
+  },
+  {
+    "name": "Garry's Mod Tool Gun",
+    "ingredients": [
+      {
+        "ingredientName": "Wood",
+        "amount": 200
+      },
+      {
+        "ingredientName": "Stones",
+        "amount": 300
+      },
+      {
+        "ingredientName": "Metal Fragments",
+        "amount": 200
+      },
+      {
+        "ingredientName": "High Quality Metal",
+        "amount": 25
+      }
+    ]
+  },
+  {
+    "name": "Geiger Counter",
+    "ingredients": []
+  },
+  {
+    "name": "Hammer",
+    "ingredients": [
+      {
+        "ingredientName": "Scrap",
+        "amount": 10
+      }
+    ]
+  },
+  {
+    "name": "Handcuffs",
+    "ingredients": [
+      {
+        "ingredientName": "Metal Fragments",
+        "amount": 70
+      }
+    ]
+  },
+  {
+    "name": "Handmade Fishing Rod",
+    "ingredients": [
+      {
+        "ingredientName": "Fishing Tackle",
+        "amount": 1
+      },
+      {
+        "ingredientName": "Grub",
+        "amount": 15
+      }
+    ]
+  },
+  {
+    "name": "Hatchet",
+    "ingredients": [
+      {
+        "ingredientName": "Scrap",
+        "amount": 40
+      }
+    ]
+  },
+  {
+    "name": "Instant Camera",
+    "ingredients": [
+      {
+        "ingredientName": "Metal Fragments",
+        "amount": 20
+      }
+    ]
+  },
+  {
+    "name": "Jackhammer",
+    "ingredients": []
+  },
+  {
+    "name": "Metal Detector",
+    "ingredients": [
+      {
+        "ingredientName": "Rope",
+        "amount": 2
+      },
+      {
+        "ingredientName": "Metal Fragments",
+        "amount": 200
+      },
+      {
+        "ingredientName": "High Quality Metal",
+        "amount": 5
+      }
+    ]
+  },
+  {
+    "name": "Pickaxe",
+    "ingredients": [
+      {
+        "ingredientName": "Scrap",
+        "amount": 50
+      }
+    ]
+  },
+  {
+    "name": "RF Transmitter",
+    "ingredients": [
+      {
+        "ingredientName": "Scrap",
+        "amount": 75
+      }
+    ]
+  },
+  {
+    "name": "Rock",
+    "ingredients": [
+      {
+        "ingredientName": "Scrap",
+        "amount": 10
+      }
+    ]
+  },
+  {
+    "name": "Salvaged Axe",
+    "ingredients": [
+      {
+        "ingredientName": "Metal Pipe",
+        "amount": 1
+      },
+      {
+        "ingredientName": "Metal Blade",
+        "amount": 5
+      }
+    ]
+  },
+  {
+    "name": "Salvaged Hammer",
+    "ingredients": [
+      {
+        "ingredientName": "Metal Pipe",
+        "amount": 1
+      },
+      {
+        "ingredientName": "Metal Fragments",
+        "amount": 50
+      }
+    ]
+  },
+  {
+    "name": "Salvaged Icepick",
+    "ingredients": [
+      {
+        "ingredientName": "Metal Pipe",
+        "amount": 1
+      },
+      {
+        "ingredientName": "Metal Blade",
+        "amount": 5
+      }
+    ]
+  },
+  {
+    "name": "Satchel Charge",
+    "ingredients": [
+      {
+        "ingredientName": "Beancan Grenade",
+        "amount": 4
+      },
+      {
+        "ingredientName": "Small Stash",
+        "amount": 1
+      },
+      {
+        "ingredientName": "Rope",
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "name": "Shovel",
+    "ingredients": []
+  },
+  {
+    "name": "Smoke Grenade",
+    "ingredients": [
+      {
+        "ingredientName": "Scrap",
+        "amount": 5
+      }
+    ]
+  },
+  {
+    "name": "Spray Can",
+    "ingredients": [
+      {
+        "ingredientName": "Metal Fragments",
+        "amount": 40
+      }
+    ]
+  },
+  {
+    "name": "Stone Hatchet",
+    "ingredients": [
+      {
+        "ingredientName": "Wood",
+        "amount": 200
+      },
+      {
+        "ingredientName": "Stones",
+        "amount": 100
+      }
+    ]
+  },
+  {
+    "name": "Stone Pickaxe",
+    "ingredients": [
+      {
+        "ingredientName": "Wood",
+        "amount": 200
+      },
+      {
+        "ingredientName": "Stones",
+        "amount": 100
+      }
+    ]
+  },
+  {
+    "name": "Supply Signal",
+    "ingredients": []
+  },
+  {
+    "name": "Survey Charge",
+    "ingredients": [
+      {
+        "ingredientName": "Scrap",
+        "amount": 500
+      }
+    ]
+  },
+  {
+    "name": "Timed Explosive Charge",
+    "ingredients": [
+      {
+        "ingredientName": "Explosives",
+        "amount": 20
+      },
+      {
+        "ingredientName": "Cloth",
+        "amount": 5
+      },
+      {
+        "ingredientName": "Tech Trash",
+        "amount": 2
+      }
+    ]
+  },
+  {
+    "name": "Torch",
+    "ingredients": [
+      {
+        "ingredientName": "Scrap",
+        "amount": 10
+      }
+    ]
+  },
+  {
+    "name": "Water Bucket",
+    "ingredients": []
+  },
+  {
+    "name": "Anti-Radiation Pills",
+    "ingredients": []
+  },
+  {
+    "name": "Bandage",
+    "ingredients": [
+      {
+        "ingredientName": "Cloth",
+        "amount": 4
+      }
+    ]
+  },
+  {
+    "name": "Blood",
+    "ingredients": []
+  },
+  {
+    "name": "Large Medkit",
+    "ingredients": [
+      {
+        "ingredientName": "Medical Syringe",
+        "amount": 2
+      },
+      {
+        "ingredientName": "Low Grade Fuel",
+        "amount": 10
+      }
+    ]
+  },
+  {
+    "name": "Medical Syringe",
+    "ingredients": [
+      {
+        "ingredientName": "Cloth",
+        "amount": 15
+      },
+      {
+        "ingredientName": "Metal Fragments",
+        "amount": 10
+      },
+      {
+        "ingredientName": "Low Grade Fuel",
+        "amount": 10
+      }
+    ]
+  },
+  {
+    "name": "Adv. Anti-Rad Tea",
+    "ingredients": []
+  },
+  {
+    "name": "Advanced Healing Tea",
+    "ingredients": []
+  },
+  {
+    "name": "Advanced Max Health Tea",
+    "ingredients": []
+  },
+  {
+    "name": "Advanced Ore Tea",
+    "ingredients": []
+  },
+  {
+    "name": "Advanced Rad. Removal Tea",
+    "ingredients": []
+  },
+  {
+    "name": "Advanced Scrap Tea",
+    "ingredients": []
+  },
+  {
+    "name": "Advanced Wood Tea",
+    "ingredients": []
+  },
+  {
+    "name": "Anchovy",
+    "ingredients": []
+  },
+  {
+    "name": "Anti-Rad Tea",
+    "ingredients": []
+  },
+  {
+    "name": "Apple",
+    "ingredients": []
+  },
+  {
+    "name": "Basic Healing Tea",
+    "ingredients": []
+  },
+  {
+    "name": "Basic Max Health Tea",
+    "ingredients": []
+  },
+  {
+    "name": "Basic Ore Tea",
+    "ingredients": []
+  },
+  {
+    "name": "Basic Scrap Tea",
+    "ingredients": []
+  },
+  {
+    "name": "Basic Wood Tea",
+    "ingredients": []
+  },
+  {
+    "name": "Black Berry",
+    "ingredients": []
+  },
+  {
+    "name": "Black Berry Clone",
+    "ingredients": []
+  },
+  {
+    "name": "Black Berry Seed",
+    "ingredients": []
+  },
+  {
+    "name": "Black Raspberries",
+    "ingredients": []
+  },
+  {
+    "name": "Blue Berry",
+    "ingredients": []
+  },
+  {
+    "name": "Blue Berry Clone",
+    "ingredients": []
+  },
+  {
+    "name": "Blue Berry Seed",
+    "ingredients": []
+  },
+  {
+    "name": "Blueberries",
+    "ingredients": []
+  },
+  {
+    "name": "Burnt Bear Meat",
+    "ingredients": []
+  },
+  {
+    "name": "Burnt Chicken",
+    "ingredients": []
+  },
+  {
+    "name": "Burnt Deer Meat",
+    "ingredients": []
+  },
+  {
+    "name": "Burnt Horse Meat",
+    "ingredients": []
+  },
+  {
+    "name": "Burnt Human Meat",
+    "ingredients": []
+  },
+  {
+    "name": "Burnt Pork",
+    "ingredients": []
+  },
+  {
+    "name": "Burnt Wolf Meat",
+    "ingredients": []
+  },
+  {
+    "name": "Cactus Flesh",
+    "ingredients": []
+  },
+  {
+    "name": "Can of Beans",
+    "ingredients": []
+  },
+  {
+    "name": "Can of Tuna",
+    "ingredients": []
+  },
+  {
+    "name": "Candy Cane",
+    "ingredients": []
+  },
+  {
+    "name": "Catfish",
+    "ingredients": []
+  },
+  {
+    "name": "Chocolate Bar",
+    "ingredients": []
+  },
+  {
+    "name": "Cooked Bear Meat",
+    "ingredients": []
+  },
+  {
+    "name": "Cooked Chicken",
+    "ingredients": []
+  },
+  {
+    "name": "Cooked Deer Meat",
+    "ingredients": []
+  },
+  {
+    "name": "Cooked Fish",
+    "ingredients": []
+  },
+  {
+    "name": "Cooked Horse Meat",
+    "ingredients": []
+  },
+  {
+    "name": "Cooked Human Meat",
+    "ingredients": []
+  },
+  {
+    "name": "Cooked Pork",
+    "ingredients": []
+  },
+  {
+    "name": "Cooked Wolf Meat",
+    "ingredients": []
+  },
+  {
+    "name": "Corn",
+    "ingredients": []
+  },
+  {
+    "name": "Corn Clone",
+    "ingredients": []
+  },
+  {
+    "name": "Corn Seed",
+    "ingredients": []
+  },
+  {
+    "name": "Granola Bar",
+    "ingredients": []
+  },
+  {
+    "name": "Green Berry",
+    "ingredients": []
+  },
+  {
+    "name": "Green Berry Clone",
+    "ingredients": []
+  },
+  {
+    "name": "Green Berry Seed",
+    "ingredients": []
+  },
+  {
+    "name": "Grub",
+    "ingredients": []
+  },
+  {
+    "name": "Hemp Clone",
+    "ingredients": []
+  },
+  {
+    "name": "Hemp Seed",
+    "ingredients": []
+  },
+  {
+    "name": "Herring",
+    "ingredients": []
+  },
+  {
+    "name": "Minnows",
+    "ingredients": []
+  },
+  {
+    "name": "Mushroom",
+    "ingredients": []
+  },
+  {
+    "name": "Orange Roughy",
+    "ingredients": []
+  },
+  {
+    "name": "Pickles",
+    "ingredients": []
+  },
+  {
+    "name": "Potato",
+    "ingredients": []
+  },
+  {
+    "name": "Potato Clone",
+    "ingredients": []
+  },
+  {
+    "name": "Potato Seed",
+    "ingredients": []
+  },
+  {
+    "name": "Pumpkin",
+    "ingredients": []
+  },
+  {
+    "name": "Pumpkin Plant Clone",
+    "ingredients": []
+  },
+  {
+    "name": "Pumpkin Seed",
+    "ingredients": []
+  },
+  {
+    "name": "Pure Anti-Rad Tea",
+    "ingredients": []
+  },
+  {
+    "name": "Pure Healing Tea",
+    "ingredients": []
+  },
+  {
+    "name": "Pure Max Health Tea",
+    "ingredients": []
+  },
+  {
+    "name": "Pure Ore Tea",
+    "ingredients": []
+  },
+  {
+    "name": "Pure Rad. Removal Tea",
+    "ingredients": []
+  },
+  {
+    "name": "Pure Scrap Tea",
+    "ingredients": []
+  },
+  {
+    "name": "Pure Wood Tea",
+    "ingredients": []
+  },
+  {
+    "name": "Rad. Removal Tea",
+    "ingredients": []
+  },
+  {
+    "name": "Raw Bear Meat",
+    "ingredients": []
+  },
+  {
+    "name": "Raw Chicken Breast",
+    "ingredients": []
+  },
+  {
+    "name": "Raw Deer Meat",
+    "ingredients": []
+  },
+  {
+    "name": "Raw Fish",
+    "ingredients": []
+  },
+  {
+    "name": "Raw Horse Meat",
+    "ingredients": []
+  },
+  {
+    "name": "Raw Human Meat",
+    "ingredients": []
+  },
+  {
+    "name": "Raw Pork",
+    "ingredients": []
+  },
+  {
+    "name": "Raw Wolf Meat",
+    "ingredients": []
+  },
+  {
+    "name": "Red Berry",
+    "ingredients": []
+  },
+  {
+    "name": "Red Berry Clone",
+    "ingredients": []
+  },
+  {
+    "name": "Red Berry Seed",
+    "ingredients": []
+  },
+  {
+    "name": "Rotten Apple",
+    "ingredients": []
+  },
+  {
+    "name": "Salmon",
+    "ingredients": []
+  },
+  {
+    "name": "Sardine",
+    "ingredients": []
+  },
+  {
+    "name": "Small Shark",
+    "ingredients": []
+  },
+  {
+    "name": "Small Trout",
+    "ingredients": []
+  },
+  {
+    "name": "Small Water Bottle",
+    "ingredients": []
+  },
+  {
+    "name": "Spoiled Chicken",
+    "ingredients": []
+  },
+  {
+    "name": "Spoiled Human Meat",
+    "ingredients": []
+  },
+  {
+    "name": "Spoiled Wolf Meat",
+    "ingredients": []
+  },
+  {
+    "name": "Super Serum",
+    "ingredients": []
+  },
+  {
+    "name": "Vodka Bottle",
+    "ingredients": []
+  },
+  {
+    "name": "Water Jug",
+    "ingredients": []
+  },
+  {
+    "name": "White Berry",
+    "ingredients": []
+  },
+  {
+    "name": "White Berry Clone",
+    "ingredients": []
+  },
+  {
+    "name": "White Berry Seed",
+    "ingredients": []
+  },
+  {
+    "name": "Worm",
+    "ingredients": []
+  },
+  {
+    "name": "Yellow Berry",
+    "ingredients": []
+  },
+  {
+    "name": "Yellow Berry Clone",
+    "ingredients": []
+  },
+  {
+    "name": "Yellow Berry Seed",
+    "ingredients": []
+  },
+  {
+    "name": "Yellow Perch",
+    "ingredients": []
+  },
+  {
+    "name": "12 Gauge Buckshot",
+    "ingredients": [
+      {
+        "ingredientName": "Metal Fragments",
+        "amount": 5
+      },
+      {
+        "ingredientName": "Gun Powder",
+        "amount": 10
+      }
+    ]
+  },
+  {
+    "name": "12 Gauge Incendiary Shell",
+    "ingredients": [
+      {
+        "ingredientName": "Metal Fragments",
+        "amount": 5
+      },
+      {
+        "ingredientName": "Gun Powder",
+        "amount": 10
+      },
+      {
+        "ingredientName": "Sulfur",
+        "amount": 20
+      }
+    ]
+  },
+  {
+    "name": "12 Gauge Slug",
+    "ingredients": [
+      {
+        "ingredientName": "Metal Fragments",
+        "amount": 5
+      },
+      {
+        "ingredientName": "Gun Powder",
+        "amount": 10
+      }
+    ]
+  },
+  {
+    "name": "40mm HE Grenade",
+    "ingredients": []
+  },
+  {
+    "name": "40mm Shotgun Round",
+    "ingredients": []
+  },
+  {
+    "name": "40mm Smoke Grenade",
+    "ingredients": []
+  },
+  {
+    "name": "5.56 Rifle Ammo",
+    "ingredients": [
+      {
+        "ingredientName": "Metal Fragments",
+        "amount": 10
+      },
+      {
+        "ingredientName": "Gun Powder",
+        "amount": 5
+      }
+    ]
+  },
+  {
+    "name": "Bone Arrow",
+    "ingredients": [
+      {
+        "ingredientName": "Wood",
+        "amount": 25
+      },
+      {
+        "ingredientName": "Bone Fragments",
+        "amount": 10
+      }
+    ]
+  },
+  {
+    "name": "Explosive 5.56 Rifle Ammo",
+    "ingredients": [
+      {
+        "ingredientName": "Metal Fragments",
+        "amount": 10
+      },
+      {
+        "ingredientName": "Gun Powder",
+        "amount": 20
+      },
+      {
+        "ingredientName": "Sulfur",
+        "amount": 10
+      }
+    ]
+  },
+  {
+    "name": "Fire Arrow",
+    "ingredients": [
+      {
+        "ingredientName": "Wood",
+        "amount": 20
+      },
+      {
+        "ingredientName": "Cloth",
+        "amount": 2
+      },
+      {
+        "ingredientName": "Low Grade Fuel",
+        "amount": 10
+      }
+    ]
+  },
+  {
+    "name": "HV 5.56 Rifle Ammo",
+    "ingredients": [
+      {
+        "ingredientName": "Metal Fragments",
+        "amount": 10
+      },
+      {
+        "ingredientName": "Gun Powder",
+        "amount": 10
+      }
+    ]
+  },
+  {
+    "name": "HV Pistol Ammo",
+    "ingredients": [
+      {
+        "ingredientName": "Metal Fragments",
+        "amount": 10
+      },
+      {
+        "ingredientName": "Gun Powder",
+        "amount": 10
+      }
+    ]
+  },
+  {
+    "name": "Handmade Shell",
+    "ingredients": [
+      {
+        "ingredientName": "Scrap",
+        "amount": 10
+      }
+    ]
+  },
+  {
+    "name": "High Velocity Arrow",
+    "ingredients": [
+      {
+        "ingredientName": "Scrap",
+        "amount": 10
+      }
+    ]
+  },
+  {
+    "name": "High Velocity Rocket",
+    "ingredients": [
+      {
+        "ingredientName": "Metal Pipe",
+        "amount": 1
+      },
+      {
+        "ingredientName": "Gun Powder",
+        "amount": 100
+      }
+    ]
+  },
+  {
+    "name": "Homing Missile",
+    "ingredients": [
+      {
+        "ingredientName": "Scrap",
+        "amount": 125
+      }
+    ]
+  },
+  {
+    "name": "Incendiary 5.56 Rifle Ammo",
+    "ingredients": [
+      {
+        "ingredientName": "Metal Fragments",
+        "amount": 10
+      },
+      {
+        "ingredientName": "Gun Powder",
+        "amount": 10
+      },
+      {
+        "ingredientName": "Sulfur",
+        "amount": 5
+      }
+    ]
+  },
+  {
+    "name": "Incendiary Pistol Bullet",
+    "ingredients": [
+      {
+        "ingredientName": "Metal Fragments",
+        "amount": 10
+      },
+      {
+        "ingredientName": "Gun Powder",
+        "amount": 10
+      },
+      {
+        "ingredientName": "Sulfur",
+        "amount": 5
+      }
+    ]
+  },
+  {
+    "name": "Incendiary Rocket",
+    "ingredients": [
+      {
+        "ingredientName": "Metal Pipe",
+        "amount": 2
+      },
+      {
+        "ingredientName": "Gun Powder",
+        "amount": 150
+      },
+      {
+        "ingredientName": "Low Grade Fuel",
+        "amount": 75
+      }
+    ]
+  },
+  {
+    "name": "MLRS Rocket",
+    "ingredients": []
+  },
+  {
+    "name": "Nailgun Nails",
+    "ingredients": [
+      {
+        "ingredientName": "Scrap",
+        "amount": 10
+      }
+    ]
+  },
+  {
+    "name": "Pistol Bullet",
+    "ingredients": []
+  },
+  {
+    "name": "Rocket",
+    "ingredients": [
+      {
+        "ingredientName": "Metal Pipe",
+        "amount": 2
+      },
+      {
+        "ingredientName": "Gun Powder",
+        "amount": 150
+      },
+      {
+        "ingredientName": "Explosives",
+        "amount": 10
+      }
+    ]
+  },
+  {
+    "name": "SAM Ammo",
+    "ingredients": [
+      {
+        "ingredientName": "Metal Pipe",
+        "amount": 1
+      },
+      {
+        "ingredientName": "Gun Powder",
+        "amount": 30
+      }
+    ]
+  },
+  {
+    "name": "Smoke Rocket WIP!!!!",
+    "ingredients": []
+  },
+  {
+    "name": "Speargun Spear",
+    "ingredients": [
+      {
+        "ingredientName": "Scrap",
+        "amount": 20
+      }
+    ]
+  },
+  {
+    "name": "Torpedo",
+    "ingredients": [
+      {
+        "ingredientName": "Metal Pipe",
+        "amount": 1
+      },
+      {
+        "ingredientName": "Gun Powder",
+        "amount": 30
+      }
+    ]
+  },
+  {
+    "name": "Wooden Arrow",
+    "ingredients": [
+      {
+        "ingredientName": "Wood",
+        "amount": 25
+      },
+      {
+        "ingredientName": "Stones",
+        "amount": 10
+      }
+    ]
+  },
+  {
+    "name": "Flame Turret",
+    "ingredients": [
+      {
+        "ingredientName": "Scrap",
+        "amount": 250
+      }
+    ]
+  },
+  {
+    "name": "Homemade Landmine",
+    "ingredients": [
+      {
+        "ingredientName": "Metal Fragments",
+        "amount": 50
+      },
+      {
+        "ingredientName": "Gun Powder",
+        "amount": 30
+      }
+    ]
+  },
+  {
+    "name": "SAM Site",
+    "ingredients": []
+  },
+  {
+    "name": "Shotgun Trap",
+    "ingredients": [
+      {
+        "ingredientName": "Scrap",
+        "amount": 150
+      }
+    ]
+  },
+  {
+    "name": "Snap Trap",
+    "ingredients": [
+      {
+        "ingredientName": "Metal Fragments",
+        "amount": 50
+      },
+      {
+        "ingredientName": "Gears",
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "name": "Wooden Floor Spikes",
+    "ingredients": [
+      {
+        "ingredientName": "Wood",
+        "amount": 150
+      }
+    ]
+  },
+  {
+    "name": "Blue Keycard",
+    "ingredients": []
+  },
+  {
+    "name": "Bronze Egg",
+    "ingredients": []
+  },
+  {
+    "name": "Captain's Log",
+    "ingredients": []
+  },
+  {
+    "name": "Coffin",
+    "ingredients": []
+  },
+  {
+    "name": "Cursed Cauldron",
+    "ingredients": [
+      {
+        "ingredientName": "Raw Fish",
+        "amount": 1
+      },
+      {
+        "ingredientName": "Wood",
+        "amount": 1
+      },
+      {
+        "ingredientName": "Cooked Fish",
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "name": "Decorative Baubels",
+    "ingredients": []
+  },
+  {
+    "name": "Decorative Gingerbread Men",
+    "ingredients": []
+  },
+  {
+    "name": "Decorative Pinecones",
+    "ingredients": []
+  },
+  {
+    "name": "Decorative Plastic Candy Canes",
+    "ingredients": []
+  },
+  {
+    "name": "Decorative Tinsel",
+    "ingredients": []
+  },
+  {
+    "name": "Door Key",
+    "ingredients": []
+  },
+  {
+    "name": "Egg Basket",
+    "ingredients": []
+  },
+  {
+    "name": "Fogger-3000",
+    "ingredients": []
+  },
+  {
+    "name": "Giant Candy Decor",
+    "ingredients": [
+      {
+        "ingredientName": "Cloth",
+        "amount": 6
+      }
+    ]
+  },
+  {
+    "name": "Giant Lollipop Decor",
+    "ingredients": [
+      {
+        "ingredientName": "Cloth",
+        "amount": 4
+      }
+    ]
+  },
+  {
+    "name": "Gold Egg",
+    "ingredients": []
+  },
+  {
+    "name": "Gravestone",
+    "ingredients": []
+  },
+  {
+    "name": "Graveyard Fence",
+    "ingredients": []
+  },
+  {
+    "name": "Green Keycard",
+    "ingredients": []
+  },
+  {
+    "name": "Halloween Candy",
+    "ingredients": []
+  },
+  {
+    "name": "Head Bag",
+    "ingredients": []
+  },
+  {
+    "name": "Large Candle Set",
+    "ingredients": [
+      {
+        "ingredientName": "Animal Fat",
+        "amount": 4
+      },
+      {
+        "ingredientName": "Cloth",
+        "amount": 2
+      }
+    ]
+  },
+  {
+    "name": "Large Loot Bag",
+    "ingredients": []
+  },
+  {
+    "name": "Large Present",
+    "ingredients": []
+  },
+  {
+    "name": "Medium Loot Bag",
+    "ingredients": []
+  },
+  {
+    "name": "Medium Present",
+    "ingredients": []
+  },
+  {
+    "name": "Note",
+    "ingredients": [
+      {
+        "ingredientName": "Scrap",
+        "amount": 10
+      }
+    ]
+  },
+  {
+    "name": "Painted Egg",
+    "ingredients": []
+  },
+  {
+    "name": "Photograph",
+    "ingredients": []
+  },
+  {
+    "name": "Pumpkin Bucket",
+    "ingredients": []
+  },
+  {
+    "name": "Red Keycard",
+    "ingredients": []
+  },
+  {
+    "name": "Rustigé Egg - Blue",
+    "ingredients": [
+      {
+        "ingredientName": "High Quality Metal",
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "name": "Rustigé Egg - Green",
+    "ingredients": [
+      {
+        "ingredientName": "High Quality Metal",
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "name": "Rustigé Egg - Ivory",
+    "ingredients": [
+      {
+        "ingredientName": "High Quality Metal",
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "name": "Rustigé Egg - Purple",
+    "ingredients": [
+      {
+        "ingredientName": "High Quality Metal",
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "name": "Rustigé Egg - Red",
+    "ingredients": [
+      {
+        "ingredientName": "High Quality Metal",
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "name": "Rustigé Egg - White",
+    "ingredients": [
+      {
+        "ingredientName": "High Quality Metal",
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "name": "Sickle",
+    "ingredients": []
+  },
+  {
+    "name": "Silver Egg",
+    "ingredients": []
+  },
+  {
+    "name": "Small Candle Set",
+    "ingredients": [
+      {
+        "ingredientName": "Animal Fat",
+        "amount": 2
+      },
+      {
+        "ingredientName": "Cloth",
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "name": "Small Loot Bag",
+    "ingredients": []
+  },
+  {
+    "name": "Small Present",
+    "ingredients": []
+  },
+  {
+    "name": "Snow Machine",
+    "ingredients": []
+  },
+  {
+    "name": "Spider Webs",
+    "ingredients": []
+  },
+  {
+    "name": "Spooky Speaker",
+    "ingredients": [
+      {
+        "ingredientName": "Wood",
+        "amount": 80
+      },
+      {
+        "ingredientName": "Metal Fragments",
+        "amount": 20
+      },
+      {
+        "ingredientName": "Cloth",
+        "amount": 4
+      }
+    ]
+  },
+  {
+    "name": "Star Tree Topper",
+    "ingredients": []
+  },
+  {
+    "name": "Strobe Light",
+    "ingredients": [
+      {
+        "ingredientName": "Metal Fragments",
+        "amount": 20
+      },
+      {
+        "ingredientName": "High Quality Metal",
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "name": "Tree Lights",
+    "ingredients": []
+  },
+  {
+    "name": "Wooden Cross",
+    "ingredients": []
+  },
+  {
+    "name": "Armored Cockpit Vehicle Module",
+    "ingredients": [
+      {
+        "ingredientName": "Scrap",
+        "amount": 125
+      }
+    ]
+  },
+  {
+    "name": "Armored Passenger Vehicle Module",
+    "ingredients": [
+      {
+        "ingredientName": "Scrap",
+        "amount": 125
+      }
+    ]
+  },
+  {
+    "name": "Bleach",
+    "ingredients": []
+  },
+  {
+    "name": "Burst Module",
+    "ingredients": []
+  },
+  {
+    "name": "Camper Vehicle Module",
+    "ingredients": [
+      {
+        "ingredientName": "Scrap",
+        "amount": 125
+      }
+    ]
+  },
+  {
+    "name": "Cockpit Vehicle Module",
+    "ingredients": [
+      {
+        "ingredientName": "Scrap",
+        "amount": 125
+      }
+    ]
+  },
+  {
+    "name": "Cockpit With Engine Vehicle Module",
+    "ingredients": [
+      {
+        "ingredientName": "Scrap",
+        "amount": 125
+      }
+    ]
+  },
+  {
+    "name": "Duct Tape",
+    "ingredients": []
+  },
+  {
+    "name": "Electric Fuse",
+    "ingredients": []
+  },
+  {
+    "name": "Empty Propane Tank",
+    "ingredients": [
+      {
+        "ingredientName": "Metal Fragments",
+        "amount": 100
+      },
+      {
+        "ingredientName": "Scrap",
+        "amount": 10
+      }
+    ]
+  },
+  {
+    "name": "Engine Vehicle Module",
+    "ingredients": [
+      {
+        "ingredientName": "Scrap",
+        "amount": 125
+      }
+    ]
+  },
+  {
+    "name": "Flatbed Vehicle Module",
+    "ingredients": [
+      {
+        "ingredientName": "Scrap",
+        "amount": 125
+      }
+    ]
+  },
+  {
+    "name": "Fuel Tank Vehicle Module",
+    "ingredients": [
+      {
+        "ingredientName": "Scrap",
+        "amount": 125
+      }
+    ]
+  },
+  {
+    "name": "Gears",
+    "ingredients": [
+      {
+        "ingredientName": "Scrap",
+        "amount": 125
+      }
+    ]
+  },
+  {
+    "name": "Glue",
+    "ingredients": []
+  },
+  {
+    "name": "High Quality Carburetor",
+    "ingredients": [
+      {
+        "ingredientName": "Scrap",
+        "amount": 20
+      }
+    ]
+  },
+  {
+    "name": "High Quality Crankshaft",
+    "ingredients": [
+      {
+        "ingredientName": "Scrap",
+        "amount": 20
+      }
+    ]
+  },
+  {
+    "name": "High Quality Pistons",
+    "ingredients": [
+      {
+        "ingredientName": "Scrap",
+        "amount": 20
+      }
+    ]
+  },
+  {
+    "name": "High Quality Spark Plugs",
+    "ingredients": [
+      {
+        "ingredientName": "Scrap",
+        "amount": 20
+      }
+    ]
+  },
+  {
+    "name": "High Quality Valves",
+    "ingredients": [
+      {
+        "ingredientName": "Scrap",
+        "amount": 20
+      }
+    ]
+  },
+  {
+    "name": "Large Flatbed Vehicle Module",
+    "ingredients": [
+      {
+        "ingredientName": "Scrap",
+        "amount": 125
+      }
+    ]
+  },
+  {
+    "name": "Low Quality Carburetor",
+    "ingredients": [
+      {
+        "ingredientName": "Metal Fragments",
+        "amount": 40
+      }
+    ]
+  },
+  {
+    "name": "Low Quality Crankshaft",
+    "ingredients": [
+      {
+        "ingredientName": "Metal Fragments",
+        "amount": 25
+      }
+    ]
+  },
+  {
+    "name": "Low Quality Pistons",
+    "ingredients": [
+      {
+        "ingredientName": "Metal Fragments",
+        "amount": 25
+      }
+    ]
+  },
+  {
+    "name": "Low Quality Spark Plugs",
+    "ingredients": [
+      {
+        "ingredientName": "Metal Fragments",
+        "amount": 25
+      }
+    ]
+  },
+  {
+    "name": "Low Quality Valves",
+    "ingredients": [
+      {
+        "ingredientName": "Metal Fragments",
+        "amount": 25
+      }
+    ]
+  },
+  {
+    "name": "MLRS Aiming Module",
+    "ingredients": []
+  },
+  {
+    "name": "Medium Quality Carburetor",
+    "ingredients": [
+      {
+        "ingredientName": "Metal Fragments",
+        "amount": 100
+      }
+    ]
+  },
+  {
+    "name": "Medium Quality Crankshaft",
+    "ingredients": [
+      {
+        "ingredientName": "Metal Fragments",
+        "amount": 70
+      }
+    ]
+  },
+  {
+    "name": "Medium Quality Pistons",
+    "ingredients": [
+      {
+        "ingredientName": "Metal Fragments",
+        "amount": 70
+      }
+    ]
+  },
+  {
+    "name": "Medium Quality Spark Plugs",
+    "ingredients": [
+      {
+        "ingredientName": "Metal Fragments",
+        "amount": 70
+      }
+    ]
+  },
+  {
+    "name": "Medium Quality Valves",
+    "ingredients": [
+      {
+        "ingredientName": "Metal Fragments",
+        "amount": 70
+      }
+    ]
+  },
+  {
+    "name": "Metal Blade",
+    "ingredients": [
+      {
+        "ingredientName": "Scrap",
+        "amount": 15
+      }
+    ]
+  },
+  {
+    "name": "Metal Pipe",
+    "ingredients": [
+      {
+        "ingredientName": "Scrap",
+        "amount": 30
+      }
+    ]
+  },
+  {
+    "name": "Metal Spring",
+    "ingredients": [
+      {
+        "ingredientName": "Scrap",
+        "amount": 60
+      }
+    ]
+  },
+  {
+    "name": "Passenger Vehicle Module",
+    "ingredients": [
+      {
+        "ingredientName": "Scrap",
+        "amount": 125
+      }
+    ]
+  },
+  {
+    "name": "Rear Seats Vehicle Module",
+    "ingredients": [
+      {
+        "ingredientName": "Scrap",
+        "amount": 125
+      }
+    ]
+  },
+  {
+    "name": "Rifle Body",
+    "ingredients": []
+  },
+  {
+    "name": "Road Signs",
+    "ingredients": [
+      {
+        "ingredientName": "High Quality Metal",
+        "amount": 2
+      },
+      {
+        "ingredientName": "Scrap",
+        "amount": 20
+      }
+    ]
+  },
+  {
+    "name": "Rope",
+    "ingredients": []
+  },
+  {
+    "name": "SMG Body",
+    "ingredients": []
+  },
+  {
+    "name": "Semi Automatic Body",
+    "ingredients": []
+  },
+  {
+    "name": "Sewing Kit",
+    "ingredients": [
+      {
+        "ingredientName": "Cloth",
+        "amount": 20
+      },
+      {
+        "ingredientName": "Rope",
+        "amount": 3
+      }
+    ]
+  },
+  {
+    "name": "Sheet Metal",
+    "ingredients": []
+  },
+  {
+    "name": "Sticks",
+    "ingredients": []
+  },
+  {
+    "name": "Storage Vehicle Module",
+    "ingredients": [
+      {
+        "ingredientName": "Scrap",
+        "amount": 125
+      }
+    ]
+  },
+  {
+    "name": "Tarp",
+    "ingredients": []
+  },
+  {
+    "name": "Taxi Vehicle Module",
+    "ingredients": [
+      {
+        "ingredientName": "Scrap",
+        "amount": 125
+      }
+    ]
+  },
+  {
+    "name": "Tech Trash",
+    "ingredients": []
+  },
+  {
+    "name": "AND Switch",
+    "ingredients": [
+      {
+        "ingredientName": "Metal Fragments",
+        "amount": 100
+      }
+    ]
+  },
+  {
+    "name": "Audio Alarm",
+    "ingredients": [
+      {
+        "ingredientName": "Metal Fragments",
+        "amount": 75
+      }
+    ]
+  },
+  {
+    "name": "Auto Turret",
+    "ingredients": [
+      {
+        "ingredientName": "Scrap",
+        "amount": 400
+      }
+    ]
+  },
+  {
+    "name": "Blocker",
+    "ingredients": [
+      {
+        "ingredientName": "Metal Fragments",
+        "amount": 75
+      }
+    ]
+  },
+  {
+    "name": "Button",
+    "ingredients": [
+      {
+        "ingredientName": "Metal Fragments",
+        "amount": 75
+      }
+    ]
+  },
+  {
+    "name": "Cable Tunnel",
+    "ingredients": []
+  },
+  {
+    "name": "Ceiling Light",
+    "ingredients": [
+      {
+        "ingredientName": "Scrap",
+        "amount": 30
+      }
+    ]
+  },
+  {
+    "name": "Computer Station",
+    "ingredients": [
+      {
+        "ingredientName": "Scrap",
+        "amount": 300
+      }
+    ]
+  },
+  {
+    "name": "Counter",
+    "ingredients": [
+      {
+        "ingredientName": "Metal Fragments",
+        "amount": 75
+      }
+    ]
+  },
+  {
+    "name": "Deluxe Christmas Lights",
+    "ingredients": [
+      {
+        "ingredientName": "Metal Fragments",
+        "amount": 25
+      }
+    ]
+  },
+  {
+    "name": "Door Controller",
+    "ingredients": [
+      {
+        "ingredientName": "Metal Fragments",
+        "amount": 75
+      }
+    ]
+  },
+  {
+    "name": "Electric Furnace",
+    "ingredients": [
+      {
+        "ingredientName": "High Quality Metal",
+        "amount": 5
+      },
+      {
+        "ingredientName": "Metal Fragments",
+        "amount": 200
+      }
+    ]
+  },
+  {
+    "name": "Electric Heater",
+    "ingredients": [
+      {
+        "ingredientName": "Scrap",
+        "amount": 75
+      }
+    ]
+  },
+  {
+    "name": "Electrical Branch",
+    "ingredients": [
+      {
+        "ingredientName": "Metal Fragments",
+        "amount": 75
+      }
+    ]
+  },
+  {
+    "name": "Elevator",
+    "ingredients": [
+      {
+        "ingredientName": "High Quality Metal",
+        "amount": 3
+      },
+      {
+        "ingredientName": "Metal Fragments",
+        "amount": 200
+      },
+      {
+        "ingredientName": "Gears",
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "name": "Flasher Light",
+    "ingredients": [
+      {
+        "ingredientName": "Metal Fragments",
+        "amount": 120
+      }
+    ]
+  },
+  {
+    "name": "Fluid Combiner",
+    "ingredients": [
+      {
+        "ingredientName": "Scrap",
+        "amount": 30
+      }
+    ]
+  },
+  {
+    "name": "Fluid Splitter",
+    "ingredients": [
+      {
+        "ingredientName": "Scrap",
+        "amount": 30
+      }
+    ]
+  },
+  {
+    "name": "Fluid Switch & Pump",
+    "ingredients": [
+      {
+        "ingredientName": "Fluid Switch & Pump",
+        "amount": 1
+      },
+      {
+        "ingredientName": "Scrap",
+        "amount": 30
+      }
+    ]
+  },
+  {
+    "name": "Green Industrial Wall Light",
+    "ingredients": [
+      {
+        "ingredientName": "Wood",
+        "amount": 50
+      },
+      {
+        "ingredientName": "Metal Fragments",
+        "amount": 12
+      }
+    ]
+  },
+  {
+    "name": "HBHF Sensor",
+    "ingredients": [
+      {
+        "ingredientName": "Metal Fragments",
+        "amount": 75
+      }
+    ]
+  },
+  {
+    "name": "Hose Tool",
+    "ingredients": [
+      {
+        "ingredientName": "High Quality Metal",
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "name": "Igniter",
+    "ingredients": [
+      {
+        "ingredientName": "Scrap",
+        "amount": 50
+      }
+    ]
+  },
+  {
+    "name": "Industrial Combiner",
+    "ingredients": [
+      {
+        "ingredientName": "Metal Fragments",
+        "amount": 75
+      }
+    ]
+  },
+  {
+    "name": "Industrial Conveyor",
+    "ingredients": [
+      {
+        "ingredientName": "Metal Fragments",
+        "amount": 75
+      }
+    ]
+  },
+  {
+    "name": "Industrial Crafter",
+    "ingredients": [
+      {
+        "ingredientName": "High Quality Metal",
+        "amount": 3
+      },
+      {
+        "ingredientName": "Tech Trash",
+        "amount": 2
+      }
+    ]
+  },
+  {
+    "name": "Industrial Splitter",
+    "ingredients": [
+      {
+        "ingredientName": "Metal Fragments",
+        "amount": 75
+      }
+    ]
+  },
+  {
+    "name": "Industrial Wall Light",
+    "ingredients": [
+      {
+        "ingredientName": "Wood",
+        "amount": 50
+      },
+      {
+        "ingredientName": "Metal Fragments",
+        "amount": 12
+      }
+    ]
+  },
+  {
+    "name": "Large Animated Neon Sign",
+    "ingredients": [
+      {
+        "ingredientName": "Metal Fragments",
+        "amount": 175
+      },
+      {
+        "ingredientName": "High Quality Metal",
+        "amount": 2
+      }
+    ]
+  },
+  {
+    "name": "Large Neon Sign",
+    "ingredients": [
+      {
+        "ingredientName": "Metal Fragments",
+        "amount": 125
+      }
+    ]
+  },
+  {
+    "name": "Large Rechargeable Battery",
+    "ingredients": [
+      {
+        "ingredientName": "High Quality Metal",
+        "amount": 10
+      },
+      {
+        "ingredientName": "Tech Trash",
+        "amount": 2
+      }
+    ]
+  },
+  {
+    "name": "Large Solar Panel",
+    "ingredients": [
+      {
+        "ingredientName": "Scrap",
+        "amount": 75
+      }
+    ]
+  },
+  {
+    "name": "Laser Detector",
+    "ingredients": [
+      {
+        "ingredientName": "Metal Fragments",
+        "amount": 75
+      }
+    ]
+  },
+  {
+    "name": "Medium Animated Neon Sign",
+    "ingredients": [
+      {
+        "ingredientName": "Metal Fragments",
+        "amount": 150
+      },
+      {
+        "ingredientName": "High Quality Metal",
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "name": "Medium Neon Sign",
+    "ingredients": [
+      {
+        "ingredientName": "Metal Fragments",
+        "amount": 100
+      }
+    ]
+  },
+  {
+    "name": "Medium Rechargeable Battery",
+    "ingredients": [
+      {
+        "ingredientName": "Scrap",
+        "amount": 75
+      }
+    ]
+  },
+  {
+    "name": "Memory Cell",
+    "ingredients": [
+      {
+        "ingredientName": "Metal Fragments",
+        "amount": 75
+      }
+    ]
+  },
+  {
+    "name": "Modular Car Lift",
+    "ingredients": [
+      {
+        "ingredientName": "Scrap",
+        "amount": 150
+      }
+    ]
+  },
+  {
+    "name": "OR Switch",
+    "ingredients": [
+      {
+        "ingredientName": "Metal Fragments",
+        "amount": 100
+      }
+    ]
+  },
+  {
+    "name": "PTZ CCTV Camera",
+    "ingredients": [
+      {
+        "ingredientName": "CCTV Camera",
+        "amount": 1
+      },
+      {
+        "ingredientName": "Metal Fragments",
+        "amount": 150
+      }
+    ]
+  },
+  {
+    "name": "Pipe Tool",
+    "ingredients": [
+      {
+        "ingredientName": "High Quality Metal",
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "name": "Powered Water Purifier",
+    "ingredients": [
+      {
+        "ingredientName": "Scrap",
+        "amount": 150
+      }
+    ]
+  },
+  {
+    "name": "Pressure Pad",
+    "ingredients": [
+      {
+        "ingredientName": "Wood",
+        "amount": 150
+      },
+      {
+        "ingredientName": "Metal Spring",
+        "amount": 1
+      },
+      {
+        "ingredientName": "Gears",
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "name": "RAND Switch",
+    "ingredients": [
+      {
+        "ingredientName": "Metal Fragments",
+        "amount": 75
+      }
+    ]
+  },
+  {
+    "name": "RF Broadcaster",
+    "ingredients": [
+      {
+        "ingredientName": "Metal Fragments",
+        "amount": 150
+      }
+    ]
+  },
+  {
+    "name": "RF Pager",
+    "ingredients": [
+      {
+        "ingredientName": "Scrap",
+        "amount": 75
+      }
+    ]
+  },
+  {
+    "name": "RF Receiver",
+    "ingredients": [
+      {
+        "ingredientName": "Metal Fragments",
+        "amount": 150
+      }
+    ]
+  },
+  {
+    "name": "Reactive Target",
+    "ingredients": [
+      {
+        "ingredientName": "Wood",
+        "amount": 100
+      },
+      {
+        "ingredientName": "Metal Fragments",
+        "amount": 150
+      },
+      {
+        "ingredientName": "Gears",
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "name": "Red Industrial Wall Light",
+    "ingredients": [
+      {
+        "ingredientName": "Wood",
+        "amount": 50
+      },
+      {
+        "ingredientName": "Metal Fragments",
+        "amount": 12
+      }
+    ]
+  },
+  {
+    "name": "Root Combiner",
+    "ingredients": [
+      {
+        "ingredientName": "Metal Fragments",
+        "amount": 75
+      }
+    ]
+  },
+  {
+    "name": "Search Light",
+    "ingredients": [
+      {
+        "ingredientName": "Wood",
+        "amount": 500
+      },
+      {
+        "ingredientName": "Metal Fragments",
+        "amount": 200
+      }
+    ]
+  },
+  {
+    "name": "Seismic Sensor",
+    "ingredients": [
+      {
+        "ingredientName": "High Quality Metal",
+        "amount": 3
+      },
+      {
+        "ingredientName": "Tech Trash",
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "name": "Simple Light",
+    "ingredients": []
+  },
+  {
+    "name": "Siren Light",
+    "ingredients": [
+      {
+        "ingredientName": "Metal Fragments",
+        "amount": 120
+      }
+    ]
+  },
+  {
+    "name": "Small Generator",
+    "ingredients": [
+      {
+        "ingredientName": "Scrap",
+        "amount": 125
+      }
+    ]
+  },
+  {
+    "name": "Small Neon Sign",
+    "ingredients": [
+      {
+        "ingredientName": "Metal Fragments",
+        "amount": 75
+      }
+    ]
+  },
+  {
+    "name": "Small Rechargeable Battery",
+    "ingredients": [
+      {
+        "ingredientName": "High Quality Metal",
+        "amount": 5
+      }
+    ]
+  },
+  {
+    "name": "Smart Alarm",
+    "ingredients": [
+      {
+        "ingredientName": "High Quality Metal",
+        "amount": 3
+      },
+      {
+        "ingredientName": "Tech Trash",
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "name": "Smart Switch",
+    "ingredients": [
+      {
+        "ingredientName": "High Quality Metal",
+        "amount": 3
+      },
+      {
+        "ingredientName": "Tech Trash",
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "name": "Splitter",
+    "ingredients": [
+      {
+        "ingredientName": "Metal Fragments",
+        "amount": 100
+      }
+    ]
+  },
+  {
+    "name": "Sprinkler",
+    "ingredients": [
+      {
+        "ingredientName": "Scrap",
+        "amount": 15
+      }
+    ]
+  },
+  {
+    "name": "Storage Adaptor",
+    "ingredients": [
+      {
+        "ingredientName": "Metal Fragments",
+        "amount": 100
+      }
+    ]
+  },
+  {
+    "name": "Storage Monitor",
+    "ingredients": [
+      {
+        "ingredientName": "High Quality Metal",
+        "amount": 3
+      },
+      {
+        "ingredientName": "Tech Trash",
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "name": "Switch",
+    "ingredients": [
+      {
+        "ingredientName": "Metal Fragments",
+        "amount": 100
+      }
+    ]
+  },
+  {
+    "name": "Tesla Coil",
+    "ingredients": [
+      {
+        "ingredientName": "Scrap",
+        "amount": 75
+      }
+    ]
+  },
+  {
+    "name": "Test Generator",
+    "ingredients": []
+  },
+  {
+    "name": "Timer",
+    "ingredients": [
+      {
+        "ingredientName": "Metal Fragments",
+        "amount": 75
+      }
+    ]
+  },
+  {
+    "name": "Water Pump",
+    "ingredients": [
+      {
+        "ingredientName": "Scrap",
+        "amount": 200
+      }
+    ]
+  },
+  {
+    "name": "Wind Turbine",
+    "ingredients": [
+      {
+        "ingredientName": "Scrap",
+        "amount": 500
+      }
+    ]
+  },
+  {
+    "name": "Wire Tool",
+    "ingredients": [
+      {
+        "ingredientName": "High Quality Metal",
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "name": "XOR Switch",
+    "ingredients": [
+      {
+        "ingredientName": "Metal Fragments",
+        "amount": 100
+      }
+    ]
+  },
+  {
+    "name": "Above Ground Pool",
+    "ingredients": [
+      {
+        "ingredientName": "Metal Fragments",
+        "amount": 40
+      },
+      {
+        "ingredientName": "Wood",
+        "amount": 100
+      },
+      {
+        "ingredientName": "Cloth",
+        "amount": 60
+      }
+    ]
+  },
+  {
+    "name": "Acoustic Guitar",
+    "ingredients": [
+      {
+        "ingredientName": "Wood",
+        "amount": 100
+      },
+      {
+        "ingredientName": "Cloth",
+        "amount": 10
+      }
+    ]
+  },
+  {
+    "name": "Beach Chair",
+    "ingredients": [
+      {
+        "ingredientName": "Wood",
+        "amount": 25
+      },
+      {
+        "ingredientName": "Metal Fragments",
+        "amount": 38
+      }
+    ]
+  },
+  {
+    "name": "Beach Parasol",
+    "ingredients": [
+      {
+        "ingredientName": "Cloth",
+        "amount": 10
+      },
+      {
+        "ingredientName": "Metal Fragments",
+        "amount": 38
+      }
+    ]
+  },
+  {
+    "name": "Beach Table",
+    "ingredients": [
+      {
+        "ingredientName": "Wood",
+        "amount": 50
+      }
+    ]
+  },
+  {
+    "name": "Beach Towel",
+    "ingredients": [
+      {
+        "ingredientName": "Cloth",
+        "amount": 12
+      }
+    ]
+  },
+  {
+    "name": "Blue Boomer",
+    "ingredients": [
+      {
+        "ingredientName": "Metal Fragments",
+        "amount": 10
+      },
+      {
+        "ingredientName": "Gun Powder",
+        "amount": 12
+      },
+      {
+        "ingredientName": "Low Grade Fuel",
+        "amount": 6
+      }
+    ]
+  },
+  {
+    "name": "Blue Roman Candle",
+    "ingredients": [
+      {
+        "ingredientName": "Metal Fragments",
+        "amount": 10
+      },
+      {
+        "ingredientName": "Low Grade Fuel",
+        "amount": 4
+      }
+    ]
+  },
+  {
+    "name": "Boogie Board",
+    "ingredients": [
+      {
+        "ingredientName": "Metal Fragments",
+        "amount": 38
+      },
+      {
+        "ingredientName": "Cloth",
+        "amount": 50
+      }
+    ]
+  },
+  {
+    "name": "Boom Box",
+    "ingredients": [
+      {
+        "ingredientName": "Wood",
+        "amount": 40
+      },
+      {
+        "ingredientName": "Metal Fragments",
+        "amount": 20
+      },
+      {
+        "ingredientName": "Cloth",
+        "amount": 4
+      }
+    ]
+  },
+  {
+    "name": "Canbourine",
+    "ingredients": [
+      {
+        "ingredientName": "Metal Fragments",
+        "amount": 10
+      }
+    ]
+  },
+  {
+    "name": "Cassette - Long",
+    "ingredients": [
+      {
+        "ingredientName": "Metal Fragments",
+        "amount": 40
+      }
+    ]
+  },
+  {
+    "name": "Cassette - Medium",
+    "ingredients": [
+      {
+        "ingredientName": "Metal Fragments",
+        "amount": 10
+      }
+    ]
+  },
+  {
+    "name": "Cassette - Short",
+    "ingredients": [
+      {
+        "ingredientName": "Metal Fragments",
+        "amount": 4
+      }
+    ]
+  },
+  {
+    "name": "Cassette Recorder",
+    "ingredients": [
+      {
+        "ingredientName": "Metal Fragments",
+        "amount": 30
+      }
+    ]
+  },
+  {
+    "name": "Champagne Boomer",
+    "ingredients": [
+      {
+        "ingredientName": "Metal Fragments",
+        "amount": 12
+      },
+      {
+        "ingredientName": "Gun Powder",
+        "amount": 30
+      },
+      {
+        "ingredientName": "Low Grade Fuel",
+        "amount": 12
+      }
+    ]
+  },
+  {
+    "name": "Confetti Cannon",
+    "ingredients": []
+  },
+  {
+    "name": "Connected Speaker",
+    "ingredients": [
+      {
+        "ingredientName": "Metal Fragments",
+        "amount": 15
+      }
+    ]
+  },
+  {
+    "name": "Cowbell",
+    "ingredients": [
+      {
+        "ingredientName": "Metal Fragments",
+        "amount": 14
+      }
+    ]
+  },
+  {
+    "name": "Disco Ball",
+    "ingredients": [
+      {
+        "ingredientName": "Metal Fragments",
+        "amount": 25
+      }
+    ]
+  },
+  {
+    "name": "Disco Floor",
+    "ingredients": [
+      {
+        "ingredientName": "Metal Fragments",
+        "amount": 38
+      }
+    ]
+  },
+  {
+    "name": "Firecracker String",
+    "ingredients": []
+  },
+  {
+    "name": "Green Boomer",
+    "ingredients": [
+      {
+        "ingredientName": "Metal Fragments",
+        "amount": 10
+      },
+      {
+        "ingredientName": "Gun Powder",
+        "amount": 12
+      },
+      {
+        "ingredientName": "Low Grade Fuel",
+        "amount": 6
+      }
+    ]
+  },
+  {
+    "name": "Green Roman Candle",
+    "ingredients": [
+      {
+        "ingredientName": "Metal Fragments",
+        "amount": 10
+      },
+      {
+        "ingredientName": "Low Grade Fuel",
+        "amount": 4
+      }
+    ]
+  },
+  {
+    "name": "Inner Tube",
+    "ingredients": [
+      {
+        "ingredientName": "Metal Fragments",
+        "amount": 30
+      },
+      {
+        "ingredientName": "Tarp",
+        "amount": 40
+      }
+    ]
+  },
+  {
+    "name": "Jerry Can Guitar",
+    "ingredients": [
+      {
+        "ingredientName": "Wood",
+        "amount": 10
+      },
+      {
+        "ingredientName": "Metal Fragments",
+        "amount": 20
+      }
+    ]
+  },
+  {
+    "name": "Junkyard Drum Kit",
+    "ingredients": [
+      {
+        "ingredientName": "Wood",
+        "amount": 100
+      },
+      {
+        "ingredientName": "Metal Fragments",
+        "amount": 50
+      }
+    ]
+  },
+  {
+    "name": "Laser Light",
+    "ingredients": [
+      {
+        "ingredientName": "Metal Fragments",
+        "amount": 20
+      }
+    ]
+  },
+  {
+    "name": "Megaphone",
+    "ingredients": [
+      {
+        "ingredientName": "Wood",
+        "amount": 20
+      },
+      {
+        "ingredientName": "Metal Fragments",
+        "amount": 30
+      }
+    ]
+  },
+  {
+    "name": "Microphone Stand",
+    "ingredients": [
+      {
+        "ingredientName": "Metal Fragments",
+        "amount": 38
+      }
+    ]
+  },
+  {
+    "name": "Mobile Phone",
+    "ingredients": [
+      {
+        "ingredientName": "Metal Fragments",
+        "amount": 50
+      }
+    ]
+  },
+  {
+    "name": "New Year Gong",
+    "ingredients": [
+      {
+        "ingredientName": "Wood",
+        "amount": 20
+      },
+      {
+        "ingredientName": "Metal Fragments",
+        "amount": 10
+      }
+    ]
+  },
+  {
+    "name": "Orange Boomer",
+    "ingredients": [
+      {
+        "ingredientName": "Metal Fragments",
+        "amount": 10
+      },
+      {
+        "ingredientName": "Gun Powder",
+        "amount": 12
+      },
+      {
+        "ingredientName": "Low Grade Fuel",
+        "amount": 6
+      }
+    ]
+  },
+  {
+    "name": "Paddling Pool",
+    "ingredients": [
+      {
+        "ingredientName": "Cloth",
+        "amount": 40
+      }
+    ]
+  },
+  {
+    "name": "Pan Flute",
+    "ingredients": [
+      {
+        "ingredientName": "Metal Fragments",
+        "amount": 8
+      },
+      {
+        "ingredientName": "Cloth",
+        "amount": 2
+      }
+    ]
+  },
+  {
+    "name": "Pattern Boomer",
+    "ingredients": [
+      {
+        "ingredientName": "Metal Fragments",
+        "amount": 20
+      },
+      {
+        "ingredientName": "Gun Powder",
+        "amount": 12
+      },
+      {
+        "ingredientName": "Low Grade Fuel",
+        "amount": 6
+      }
+    ]
+  },
+  {
+    "name": "Pinata",
+    "ingredients": []
+  },
+  {
+    "name": "Plumber's Trumpet",
+    "ingredients": [
+      {
+        "ingredientName": "Metal Fragments",
+        "amount": 30
+      }
+    ]
+  },
+  {
+    "name": "Portable Boom Box",
+    "ingredients": [
+      {
+        "ingredientName": "Metal Fragments",
+        "amount": 24
+      }
+    ]
+  },
+  {
+    "name": "Red Boomer",
+    "ingredients": [
+      {
+        "ingredientName": "Metal Fragments",
+        "amount": 10
+      },
+      {
+        "ingredientName": "Gun Powder",
+        "amount": 12
+      },
+      {
+        "ingredientName": "Low Grade Fuel",
+        "amount": 6
+      }
+    ]
+  },
+  {
+    "name": "Red Roman Candle",
+    "ingredients": [
+      {
+        "ingredientName": "Metal Fragments",
+        "amount": 10
+      },
+      {
+        "ingredientName": "Low Grade Fuel",
+        "amount": 4
+      }
+    ]
+  },
+  {
+    "name": "Red Volcano Firework",
+    "ingredients": [
+      {
+        "ingredientName": "Metal Fragments",
+        "amount": 8
+      },
+      {
+        "ingredientName": "Gun Powder",
+        "amount": 6
+      }
+    ]
+  },
+  {
+    "name": "Shovel Bass",
+    "ingredients": [
+      {
+        "ingredientName": "Wood",
+        "amount": 20
+      },
+      {
+        "ingredientName": "Metal Fragments",
+        "amount": 30
+      }
+    ]
+  },
+  {
+    "name": "Skull Spikes",
+    "ingredients": [
+      {
+        "ingredientName": "Wood",
+        "amount": 30
+      },
+      {
+        "ingredientName": "Human Skull",
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "name": "Skull Trophy",
+    "ingredients": [
+      {
+        "ingredientName": "Wood",
+        "amount": 20
+      },
+      {
+        "ingredientName": "Metal Fragments",
+        "amount": 5
+      }
+    ]
+  },
+  {
+    "name": "Sky Lantern",
+    "ingredients": [
+      {
+        "ingredientName": "Cloth",
+        "amount": 4
+      },
+      {
+        "ingredientName": "Low Grade Fuel",
+        "amount": 2
+      }
+    ]
+  },
+  {
+    "name": "Sled",
+    "ingredients": []
+  },
+  {
+    "name": "Sound Light",
+    "ingredients": [
+      {
+        "ingredientName": "Metal Fragments",
+        "amount": 20
+      }
+    ]
+  },
+  {
+    "name": "Sousaphone",
+    "ingredients": [
+      {
+        "ingredientName": "Metal Fragments",
+        "amount": 40
+      }
+    ]
+  },
+  {
+    "name": "Telephone",
+    "ingredients": [
+      {
+        "ingredientName": "Wood",
+        "amount": 50
+      },
+      {
+        "ingredientName": "Metal Fragments",
+        "amount": 100
+      },
+      {
+        "ingredientName": "Tech Trash",
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "name": "Violet Boomer",
+    "ingredients": [
+      {
+        "ingredientName": "Metal Fragments",
+        "amount": 10
+      },
+      {
+        "ingredientName": "Gun Powder",
+        "amount": 12
+      },
+      {
+        "ingredientName": "Low Grade Fuel",
+        "amount": 6
+      }
+    ]
+  },
+  {
+    "name": "Violet Roman Candle",
+    "ingredients": [
+      {
+        "ingredientName": "Metal Fragments",
+        "amount": 10
+      },
+      {
+        "ingredientName": "Low Grade Fuel",
+        "amount": 4
+      }
+    ]
+  },
+  {
+    "name": "Violet Volcano Firework",
+    "ingredients": [
+      {
+        "ingredientName": "Metal Fragments",
+        "amount": 8
+      },
+      {
+        "ingredientName": "Gun Powder",
+        "amount": 6
+      }
+    ]
+  },
+  {
+    "name": "Wheelbarrow Piano",
+    "ingredients": [
+      {
+        "ingredientName": "Wood",
+        "amount": 100
+      },
+      {
+        "ingredientName": "Metal Fragments",
+        "amount": 50
+      }
+    ]
+  },
+  {
+    "name": "White Volcano Firework",
+    "ingredients": [
+      {
+        "ingredientName": "Metal Fragments",
+        "amount": 8
+      },
+      {
+        "ingredientName": "Gun Powder",
+        "amount": 6
+      }
+    ]
+  },
+  {
+    "name": "Wrapped Gift",
+    "ingredients": []
+  },
+  {
+    "name": "Wrapping Paper",
+    "ingredients": []
+  },
+  {
+    "name": "Xylobone",
+    "ingredients": [
+      {
+        "ingredientName": "Bone Fragments",
+        "amount": 25
+      }
+    ]
+  }
+]
